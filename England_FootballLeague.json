@@ -1,0 +1,146 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Barnsley",
+      "team_abbreviation": "BAR",
+      "team_stadium": "Oakwell"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Birmingham City",
+      "team_abbreviation": "BIR",
+      "team_stadium": "St. Andrew's Stadium"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Blackburn Rovers",
+      "team_abbreviation": "BLA",
+      "team_stadium": "Ewood Park"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Blackpool",
+      "team_abbreviation": "BLP",
+      "team_stadium": "Bloomfield Road"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Bournemouth",
+      "team_abbreviation": "BOU",
+      "team_stadium": "Vitality Stadium"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Bristol City",
+      "team_abbreviation": "BRC",
+      "team_stadium": "Ashton Gate Stadium"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Cardiff City",
+      "team_abbreviation": "CAR",
+      "team_stadium": "Cardiff City Stadium"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Coventry City",
+      "team_abbreviation": "COV",
+      "team_stadium": "Coventry Building Society Arena"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Derby County",
+      "team_abbreviation": "DER",
+      "team_stadium": "Pride Park Stadium"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Fulham",
+      "team_abbreviation": "FUL",
+      "team_stadium": "Craven Cottage"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Huddersfield Town",
+      "team_abbreviation": "HUD",
+      "team_stadium": "John Smith's Stadium"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Hull City",
+      "team_abbreviation": "HUL",
+      "team_stadium": "KCOM Stadium"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Luton Town",
+      "team_abbreviation": "LUT",
+      "team_stadium": "Kenilworth Road"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Middlesbrough",
+      "team_abbreviation": "MID",
+      "team_stadium": "Riverside Stadium"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Millwall",
+      "team_abbreviation": "MIL",
+      "team_stadium": "The Den"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Nottingham Forest",
+      "team_abbreviation": "FOR",
+      "team_stadium": "The City Ground"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Peterborough United",
+      "team_abbreviation": "PET",
+      "team_stadium": "Weston Homes Stadium"
+    },
+    {
+      "team_id": 18,
+      "team_name": "Preston North End",
+      "team_abbreviation": "PRE",
+      "team_stadium": "Deepdale"
+    },
+    {
+      "team_id": 19,
+      "team_name": "Queens Park Rangers",
+      "team_abbreviation": "QPR",
+      "team_stadium": "Kiyan Prince Foundation Stadium"
+    },
+    {
+      "team_id": 20,
+      "team_name": "Reading",
+      "team_abbreviation": "REA",
+      "team_stadium": "Madejski Stadium"
+    },
+    {
+      "team_id": 21,
+      "team_name": "Sheffield United",
+      "team_abbreviation": "SHU",
+      "team_stadium": "Bramall Lane"
+    },
+    {
+      "team_id": 22,
+      "team_name": "Stoke City",
+      "team_abbreviation": "STK",
+      "team_stadium": "Bet365 Stadium"
+    },
+    {
+      "team_id": 23,
+      "team_name": "Swansea City",
+      "team_abbreviation": "SWA",
+      "team_stadium": "Liberty Stadium"
+    },
+    {
+      "team_id": 24,
+      "team_name": "West Bromwich Albion",
+      "team_abbreviation": "WBA",
+      "team_stadium": "The Hawthorns"
+    }
+  ]  

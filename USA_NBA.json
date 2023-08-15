@@ -1,0 +1,182 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Atlanta Hawks",
+      "team_abbreviation": "ATL",
+      "team_stadium": "State Farm Arena"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Boston Celtics",
+      "team_abbreviation": "BOS",
+      "team_stadium": "TD Garden"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Brooklyn Nets",
+      "team_abbreviation": "BKN",
+      "team_stadium": "Barclays Center"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Charlotte Hornets",
+      "team_abbreviation": "CHA",
+      "team_stadium": "Spectrum Center"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Chicago Bulls",
+      "team_abbreviation": "CHI",
+      "team_stadium": "United Center"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Cleveland Cavaliers",
+      "team_abbreviation": "CLE",
+      "team_stadium": "Rocket Mortgage FieldHouse"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Dallas Mavericks",
+      "team_abbreviation": "DAL",
+      "team_stadium": "American Airlines Center"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Denver Nuggets",
+      "team_abbreviation": "DEN",
+      "team_stadium": "Ball Arena"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Detroit Pistons",
+      "team_abbreviation": "DET",
+      "team_stadium": "Little Caesars Arena"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Golden State Warriors",
+      "team_abbreviation": "GSW",
+      "team_stadium": "Chase Center"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Houston Rockets",
+      "team_abbreviation": "HOU",
+      "team_stadium": "Toyota Center"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Indiana Pacers",
+      "team_abbreviation": "IND",
+      "team_stadium": "Bankers Life Fieldhouse"
+    },
+    {
+      "team_id": 13,
+      "team_name": "LA Clippers",
+      "team_abbreviation": "LAC",
+      "team_stadium": "Crypto.com Arena"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Los Angeles Lakers",
+      "team_abbreviation": "LAL",
+      "team_stadium": "Crypto.com Arena"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Memphis Grizzlies",
+      "team_abbreviation": "MEM",
+      "team_stadium": "FedExForum"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Miami Heat",
+      "team_abbreviation": "MIA",
+      "team_stadium": "FTX Arena"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Milwaukee Bucks",
+      "team_abbreviation": "MIL",
+      "team_stadium": "Fiserv Forum"
+    },
+    {
+      "team_id": 18,
+      "team_name": "Minnesota Timberwolves",
+      "team_abbreviation": "MIN",
+      "team_stadium": "Target Center"
+    },
+    {
+      "team_id": 19,
+      "team_name": "New Orleans Pelicans",
+      "team_abbreviation": "NOP",
+      "team_stadium": "Smoothie King Center"
+    },
+    {
+      "team_id": 20,
+      "team_name": "New York Knicks",
+      "team_abbreviation": "NYK",
+      "team_stadium": "Madison Square Garden"
+    },
+    {
+      "team_id": 21,
+      "team_name": "Oklahoma City Thunder",
+      "team_abbreviation": "OKC",
+      "team_stadium": "Paycom Center"
+    },
+    {
+      "team_id": 22,
+      "team_name": "Orlando Magic",
+      "team_abbreviation": "ORL",
+      "team_stadium": "Amway Center"
+    },
+    {
+      "team_id": 23,
+      "team_name": "Philadelphia 76ers",
+      "team_abbreviation": "PHI",
+      "team_stadium": "Wells Fargo Center"
+    },
+    {
+      "team_id": 24,
+      "team_name": "Phoenix Suns",
+      "team_abbreviation": "PHX",
+      "team_stadium": "Footprint Center"
+    },
+    {
+      "team_id": 25,
+      "team_name": "Portland Trail Blazers",
+      "team_abbreviation": "POR",
+      "team_stadium": "Moda Center"
+    },
+    {
+      "team_id": 26,
+      "team_name": "Sacramento Kings",
+      "team_abbreviation": "SAC",
+      "team_stadium": "Golden 1 Center"
+    },
+    {
+      "team_id": 27,
+      "team_name": "San Antonio Spurs",
+      "team_abbreviation": "SAS",
+      "team_stadium": "AT&T Center"
+    },
+    {
+      "team_id": 28,
+      "team_name": "Toronto Raptors",
+      "team_abbreviation": "TOR",
+      "team_stadium": "Scotiabank Arena"
+    },
+    {
+      "team_id": 29,
+      "team_name": "Utah Jazz",
+      "team_abbreviation": "UTA",
+      "team_stadium": "Vivint Arena"
+    },
+    {
+      "team_id": 30,
+      "team_name": "Washington Wizards",
+      "team_abbreviation": "WAS",
+      "team_stadium": "Capital One Arena"
+    }
+  ]  

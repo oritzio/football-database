@@ -1,0 +1,110 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "1. FC Köln",
+      "team_abbreviation": "KOE",
+      "team_stadium": "RheinEnergieStadion"
+    },
+    {
+      "team_id": 2,
+      "team_name": "1. FSV Mainz 05",
+      "team_abbreviation": "MAI",
+      "team_stadium": "Opel Arena"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Arminia Bielefeld",
+      "team_abbreviation": "BIE",
+      "team_stadium": "SchücoArena"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Bayer Leverkusen",
+      "team_abbreviation": "B04",
+      "team_stadium": "BayArena"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Bayern Munich",
+      "team_abbreviation": "FCB",
+      "team_stadium": "Allianz Arena"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Borussia Dortmund",
+      "team_abbreviation": "BVB",
+      "team_stadium": "Signal Iduna Park"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Borussia Mönchengladbach",
+      "team_abbreviation": "BMG",
+      "team_stadium": "Borussia-Park"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Eintracht Frankfurt",
+      "team_abbreviation": "SGE",
+      "team_stadium": "Deutsche Bank Park"
+    },
+    {
+      "team_id": 9,
+      "team_name": "FC Augsburg",
+      "team_abbreviation": "FCA",
+      "team_stadium": "WWK Arena"
+    },
+    {
+      "team_id": 10,
+      "team_name": "FC Union Berlin",
+      "team_abbreviation": "FCU",
+      "team_stadium": "Stadion An der Alten Försterei"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Hertha BSC",
+      "team_abbreviation": "BSC",
+      "team_stadium": "Olympiastadion Berlin"
+    },
+    {
+      "team_id": 12,
+      "team_name": "RB Leipzig",
+      "team_abbreviation": "RBL",
+      "team_stadium": "Red Bull Arena"
+    },
+    {
+      "team_id": 13,
+      "team_name": "SC Freiburg",
+      "team_abbreviation": "SCF",
+      "team_stadium": "Schwarzwald-Stadion"
+    },
+    {
+      "team_id": 14,
+      "team_name": "SpVgg Greuther Fürth",
+      "team_abbreviation": "SGF",
+      "team_stadium": "Sportpark Ronhof Thomas Sommer"
+    },
+    {
+      "team_id": 15,
+      "team_name": "TSG Hoffenheim",
+      "team_abbreviation": "TSG",
+      "team_stadium": "PreZero Arena"
+    },
+    {
+      "team_id": 16,
+      "team_name": "VfB Stuttgart",
+      "team_abbreviation": "VFB",
+      "team_stadium": "Mercedes-Benz Arena"
+    },
+    {
+      "team_id": 17,
+      "team_name": "VfL Bochum",
+      "team_abbreviation": "BOC",
+      "team_stadium": "Vonovia Ruhrstadion"
+    },
+    {
+      "team_id": 18,
+      "team_name": "VfL Wolfsburg",
+      "team_abbreviation": "WOB",
+      "team_stadium": "Volkswagen Arena"
+    }
+  ]  

@@ -1,0 +1,98 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "AIK",
+      "team_abbreviation": "AIK",
+      "team_stadium": "Friends Arena"
+    },
+    {
+      "team_id": 2,
+      "team_name": "BK Häcken",
+      "team_abbreviation": "BKH",
+      "team_stadium": "Bravida Arena"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Djurgårdens IF",
+      "team_abbreviation": "DIF",
+      "team_stadium": "Tele2 Arena"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Elfsborg",
+      "team_abbreviation": "ELS",
+      "team_stadium": "Borås Arena"
+    },
+    {
+      "team_id": 5,
+      "team_name": "GIF Sundsvall",
+      "team_abbreviation": "SUN",
+      "team_stadium": "NP3 Arena"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Hammarby IF",
+      "team_abbreviation": "HAM",
+      "team_stadium": "Tele2 Arena"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Helsingborgs IF",
+      "team_abbreviation": "HEL",
+      "team_stadium": "Olympia"
+    },
+    {
+      "team_id": 8,
+      "team_name": "IFK Göteborg",
+      "team_abbreviation": "IFK",
+      "team_stadium": "Gamla Ullevi"
+    },
+    {
+      "team_id": 9,
+      "team_name": "IFK Norrköping",
+      "team_abbreviation": "NOR",
+      "team_stadium": "Östgötaporten"
+    },
+    {
+      "team_id": 10,
+      "team_name": "IK Sirius",
+      "team_abbreviation": "SIR",
+      "team_stadium": "Studenternas IP"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Kalmar FF",
+      "team_abbreviation": "KAL",
+      "team_stadium": "Guldfågeln Arena"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Malmö FF",
+      "team_abbreviation": "MAL",
+      "team_stadium": "Eleda Stadion"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Mjällby AIF",
+      "team_abbreviation": "MJA",
+      "team_stadium": "Strandvallen"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Örebro SK",
+      "team_abbreviation": "ÖRE",
+      "team_stadium": "Behrn Arena"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Varbergs BoIS",
+      "team_abbreviation": "VAR",
+      "team_stadium": "Varberg Energi Arena"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Östersunds FK",
+      "team_abbreviation": "ÖFK",
+      "team_stadium": "Jämtkraft Arena"
+    }
+  ]  

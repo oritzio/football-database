@@ -1,0 +1,164 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Atlanta United FC",
+      "team_abbreviation": "ATL",
+      "team_stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Austin FC",
+      "team_abbreviation": "ATX",
+      "team_stadium": "Q2 Stadium"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Chicago Fire FC",
+      "team_abbreviation": "CHI",
+      "team_stadium": "Soldier Field"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Colorado Rapids",
+      "team_abbreviation": "COL",
+      "team_stadium": "DICK'S Sporting Goods Park"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Columbus Crew",
+      "team_abbreviation": "CLB",
+      "team_stadium": "Lower.com Field"
+    },
+    {
+      "team_id": 6,
+      "team_name": "D.C. United",
+      "team_abbreviation": "DC",
+      "team_stadium": "Audi Field"
+    },
+    {
+      "team_id": 7,
+      "team_name": "FC Cincinnati",
+      "team_abbreviation": "CIN",
+      "team_stadium": "TQL Stadium"
+    },
+    {
+      "team_id": 8,
+      "team_name": "FC Dallas",
+      "team_abbreviation": "DAL",
+      "team_stadium": "Toyota Stadium"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Houston Dynamo",
+      "team_abbreviation": "HOU",
+      "team_stadium": "BBVA Stadium"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Inter Miami CF",
+      "team_abbreviation": "MIA",
+      "team_stadium": "DRV PNK Stadium"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Los Angeles FC",
+      "team_abbreviation": "LAFC",
+      "team_stadium": "Banc of California Stadium"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Los Angeles Galaxy",
+      "team_abbreviation": "LAG",
+      "team_stadium": "Dignity Health Sports Park"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Minnesota United FC",
+      "team_abbreviation": "MIN",
+      "team_stadium": "Allianz Field"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Montreal Impact",
+      "team_abbreviation": "MTL",
+      "team_stadium": "Saputo Stadium"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Nashville SC",
+      "team_abbreviation": "NSH",
+      "team_stadium": "Nissan Stadium"
+    },
+    {
+      "team_id": 16,
+      "team_name": "New England Revolution",
+      "team_abbreviation": "NE",
+      "team_stadium": "Gillette Stadium"
+    },
+    {
+      "team_id": 17,
+      "team_name": "New York City FC",
+      "team_abbreviation": "NYCFC",
+      "team_stadium": "Yankee Stadium"
+    },
+    {
+      "team_id": 18,
+      "team_name": "New York Red Bulls",
+      "team_abbreviation": "NYRB",
+      "team_stadium": "Red Bull Arena"
+    },
+    {
+      "team_id": 19,
+      "team_name": "Orlando City SC",
+      "team_abbreviation": "ORL",
+      "team_stadium": "Exploria Stadium"
+    },
+    {
+      "team_id": 20,
+      "team_name": "Philadelphia Union",
+      "team_abbreviation": "PHI",
+      "team_stadium": "Subaru Park"
+    },
+    {
+      "team_id": 21,
+      "team_name": "Portland Timbers",
+      "team_abbreviation": "POR",
+      "team_stadium": "Providence Park"
+    },
+    {
+      "team_id": 22,
+      "team_name": "Real Salt Lake",
+      "team_abbreviation": "RSL",
+      "team_stadium": "Rio Tinto Stadium"
+    },
+    {
+      "team_id": 23,
+      "team_name": "San Jose Earthquakes",
+      "team_abbreviation": "SJ",
+      "team_stadium": "PayPal Park"
+    },
+    {
+      "team_id": 24,
+      "team_name": "Seattle Sounders FC",
+      "team_abbreviation": "SEA",
+      "team_stadium": "Lumen Field"
+    },
+    {
+      "team_id": 25,
+      "team_name": "Sporting Kansas City",
+      "team_abbreviation": "SKC",
+      "team_stadium": "Children's Mercy Park"
+    },
+    {
+      "team_id": 26,
+      "team_name": "Toronto FC",
+      "team_abbreviation": "TOR",
+      "team_stadium": "BMO Field"
+    },
+    {
+      "team_id": 27,
+      "team_name": "Vancouver Whitecaps FC",
+      "team_abbreviation": "VAN",
+      "team_stadium": "BC Place"
+    }
+  ]  

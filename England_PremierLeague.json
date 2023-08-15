@@ -1,0 +1,122 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Arsenal",
+      "team_stadium": "Emirates Stadium",
+      "team_abbreviation": "ARS"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Aston Villa",
+      "team_stadium": "Villa Park",
+      "team_abbreviation": "AVL"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Brentford",
+      "team_stadium": "Brentford Community Stadium",
+      "team_abbreviation": "BRE"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Brighton & Hove Albion",
+      "team_stadium": "Amex Stadium",
+      "team_abbreviation": "BHA"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Burnley",
+      "team_stadium": "Turf Moor",
+      "team_abbreviation": "BUR"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Chelsea",
+      "team_stadium": "Stamford Bridge",
+      "team_abbreviation": "CHE"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Crystal Palace",
+      "team_stadium": "Selhurst Park",
+      "team_abbreviation": "CRY"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Everton",
+      "team_stadium": "Goodison Park",
+      "team_abbreviation": "EVE"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Leeds United",
+      "team_stadium": "Elland Road",
+      "team_abbreviation": "LEE"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Leicester City",
+      "team_stadium": "King Power Stadium",
+      "team_abbreviation": "LEI"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Liverpool",
+      "team_stadium": "Anfield",
+      "team_abbreviation": "LIV"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Manchester City",
+      "team_stadium": "Etihad Stadium",
+      "team_abbreviation": "MCI"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Manchester United",
+      "team_stadium": "Old Trafford",
+      "team_abbreviation": "MUN"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Newcastle United",
+      "team_stadium": "St James' Park",
+      "team_abbreviation": "NEW"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Norwich City",
+      "team_stadium": "Carrow Road",
+      "team_abbreviation": "NOR"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Southampton",
+      "team_stadium": "St Mary's Stadium",
+      "team_abbreviation": "SOU"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Tottenham Hotspur",
+      "team_stadium": "Tottenham Hotspur Stadium",
+      "team_abbreviation": "TOT"
+    },
+    {
+      "team_id": 18,
+      "team_name": "Watford",
+      "team_stadium": "Vicarage Road",
+      "team_abbreviation": "WAT"
+    },
+    {
+      "team_id": 19,
+      "team_name": "West Ham United",
+      "team_stadium": "London Stadium",
+      "team_abbreviation": "WHU"
+    },
+    {
+      "team_id": 20,
+      "team_name": "Wolverhampton Wanderers",
+      "team_stadium": "Molineux Stadium",
+      "team_abbreviation": "WOL"
+    }
+  ]

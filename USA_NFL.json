@@ -1,0 +1,194 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Arizona Cardinals",
+      "team_abbreviation": "ARI",
+      "team_stadium": "State Farm Stadium"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Atlanta Falcons",
+      "team_abbreviation": "ATL",
+      "team_stadium": "Mercedes-Benz Stadium"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Baltimore Ravens",
+      "team_abbreviation": "BAL",
+      "team_stadium": "M&T Bank Stadium"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Buffalo Bills",
+      "team_abbreviation": "BUF",
+      "team_stadium": "Highmark Stadium"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Carolina Panthers",
+      "team_abbreviation": "CAR",
+      "team_stadium": "Bank of America Stadium"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Chicago Bears",
+      "team_abbreviation": "CHI",
+      "team_stadium": "Soldier Field"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Cincinnati Bengals",
+      "team_abbreviation": "CIN",
+      "team_stadium": "Paul Brown Stadium"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Cleveland Browns",
+      "team_abbreviation": "CLE",
+      "team_stadium": "FirstEnergy Stadium"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Dallas Cowboys",
+      "team_abbreviation": "DAL",
+      "team_stadium": "AT&T Stadium"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Denver Broncos",
+      "team_abbreviation": "DEN",
+      "team_stadium": "Empower Field at Mile High"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Detroit Lions",
+      "team_abbreviation": "DET",
+      "team_stadium": "Ford Field"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Green Bay Packers",
+      "team_abbreviation": "GB",
+      "team_stadium": "Lambeau Field"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Houston Texans",
+      "team_abbreviation": "HOU",
+      "team_stadium": "NRG Stadium"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Indianapolis Colts",
+      "team_abbreviation": "IND",
+      "team_stadium": "Lucas Oil Stadium"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Jacksonville Jaguars",
+      "team_abbreviation": "JAX",
+      "team_stadium": "TIAA Bank Field"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Kansas City Chiefs",
+      "team_abbreviation": "KC",
+      "team_stadium": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Las Vegas Raiders",
+      "team_abbreviation": "LV",
+      "team_stadium": "Allegiant Stadium"
+    },
+    {
+      "team_id": 18,
+      "team_name": "Los Angeles Chargers",
+      "team_abbreviation": "LAC",
+      "team_stadium": "SoFi Stadium"
+    },
+    {
+      "team_id": 19,
+      "team_name": "Los Angeles Rams",
+      "team_abbreviation": "LAR",
+      "team_stadium": "SoFi Stadium"
+    },
+    {
+      "team_id": 20,
+      "team_name": "Miami Dolphins",
+      "team_abbreviation": "MIA",
+      "team_stadium": "Hard Rock Stadium"
+    },
+    {
+      "team_id": 21,
+      "team_name": "Minnesota Vikings",
+      "team_abbreviation": "MIN",
+      "team_stadium": "U.S. Bank Stadium"
+    },
+    {
+      "team_id": 22,
+      "team_name": "New England Patriots",
+      "team_abbreviation": "NE",
+      "team_stadium": "Gillette Stadium"
+    },
+    {
+      "team_id": 23,
+      "team_name": "New Orleans Saints",
+      "team_abbreviation": "NO",
+      "team_stadium": "Caesars Superdome"
+    },
+    {
+      "team_id": 24,
+      "team_name": "New York Giants",
+      "team_abbreviation": "NYG",
+      "team_stadium": "MetLife Stadium"
+    },
+    {
+      "team_id": 25,
+      "team_name": "New York Jets",
+      "team_abbreviation": "NYJ",
+      "team_stadium": "MetLife Stadium"
+    },
+    {
+      "team_id": 26,
+      "team_name": "Philadelphia Eagles",
+      "team_abbreviation": "PHI",
+      "team_stadium": "Lincoln Financial Field"
+    },
+    {
+      "team_id": 27,
+      "team_name": "Pittsburgh Steelers",
+      "team_abbreviation": "PIT",
+      "team_stadium": "Heinz Field"
+    },
+    {
+      "team_id": 28,
+      "team_name": "San Francisco 49ers",
+      "team_abbreviation": "SF",
+      "team_stadium": "Levi's Stadium"
+    },
+    {
+      "team_id": 29,
+      "team_name": "Seattle Seahawks",
+      "team_abbreviation": "SEA",
+      "team_stadium": "Lumen Field"
+    },
+    {
+      "team_id": 30,
+      "team_name": "Tampa Bay Buccaneers",
+      "team_abbreviation": "TB",
+      "team_stadium": "Raymond James Stadium"
+    },
+    {
+      "team_id": 31,
+      "team_name": "Tennessee Titans",
+      "team_abbreviation": "TEN",
+      "team_stadium": "Nissan Stadium"
+    },
+    {
+      "team_id": 32,
+      "team_name": "Washington Football Team",
+      "team_abbreviation": "WAS",
+      "team_stadium": "FedExField"
+    }
+  ]  
