@@ -1,15 +1,15 @@
 [
     {
       "team_id": 1,
-      "team_name": "ADO Den Haag",
-      "team_abbreviation": "ADO",
-      "team_stadium": "Cars Jeans Stadion"
+      "team_name": "Ajax Amsterdam",
+      "team_abbreviation": "AJAX",
+      "team_stadium": "Johan Cruyff Arena"
     },
     {
       "team_id": 2,
-      "team_name": "Ajax",
-      "team_abbreviation": "AJA",
-      "team_stadium": "Johan Cruijff ArenA"
+      "team_name": "Almere City",
+      "team_abbreviation": "ALM",
+      "team_stadium": "Yanmar Stadion"
     },
     {
       "team_id": 3,
@@ -19,81 +19,81 @@
     },
     {
       "team_id": 4,
-      "team_name": "FC Emmen",
-      "team_abbreviation": "EMM",
-      "team_stadium": "De Oude Meerdijk"
+      "team_name": "Excelsior",
+      "team_abbreviation": "EXC",
+      "team_stadium": "Van Donge & De Roo Stadion"
     },
     {
       "team_id": 5,
-      "team_name": "FC Groningen",
-      "team_abbreviation": "GRN",
-      "team_stadium": "Hitachi Capital Mobility Stadion"
-    },
-    {
-      "team_id": 6,
-      "team_name": "FC Twente",
-      "team_abbreviation": "TWE",
-      "team_stadium": "De Grolsch Veste"
-    },
-    {
-      "team_id": 7,
-      "team_name": "FC Utrecht",
-      "team_abbreviation": "UTR",
-      "team_stadium": "Stadion Galgenwaard"
-    },
-    {
-      "team_id": 8,
-      "team_name": "Feyenoord",
+      "team_name": "Feyenoord Rotterdam",
       "team_abbreviation": "FEY",
       "team_stadium": "De Kuip"
     },
     {
-      "team_id": 9,
+      "team_id": 6,
       "team_name": "Fortuna Sittard",
       "team_abbreviation": "FOR",
       "team_stadium": "Fortuna Sittard Stadion"
     },
     {
-      "team_id": 10,
+      "team_id": 7,
       "team_name": "Go Ahead Eagles",
       "team_abbreviation": "GAE",
       "team_stadium": "De Adelaarshorst"
     },
     {
+      "team_id": 8,
+      "team_name": "FC Twente",
+      "team_abbreviation": "TWE",
+      "team_stadium": "De Grolsch Veste"
+    },
+    {
+      "team_id": 9,
+      "team_name": "FC Utrecht",
+      "team_abbreviation": "UTR",
+      "team_stadium": "Stadion Galgenwaard"
+    },
+    {
+      "team_id": 10,
+      "team_name": "FC Volendam",
+      "team_abbreviation": "VOL",
+      "team_stadium": "Kras Stadion"
+    },
+    {
       "team_id": 11,
+      "team_name": "Heerenveen",
+      "team_abbreviation": "HEE",
+      "team_stadium": "Abe Lenstra Stadion"
+    },
+    {
+      "team_id": 12,
       "team_name": "Heracles Almelo",
       "team_abbreviation": "HER",
       "team_stadium": "Erve Asito"
     },
     {
-      "team_id": 12,
+      "team_id": 13,
       "team_name": "NEC Nijmegen",
       "team_abbreviation": "NEC",
-      "team_stadium": "Goffertstadion"
-    },
-    {
-      "team_id": 13,
-      "team_name": "PEC Zwolle",
-      "team_abbreviation": "PEC",
-      "team_stadium": "MAC³PARK Stadion"
+      "team_stadium": "Stadion de Goffert"
     },
     {
       "team_id": 14,
+      "team_name": "PEC Zwolle",
+      "team_abbreviation": "ZWO",
+      "team_stadium": "MAC³PARK Stadion"
+    },
+    {
+      "team_id": 15,
       "team_name": "PSV Eindhoven",
       "team_abbreviation": "PSV",
       "team_stadium": "Philips Stadion"
     },
     {
-      "team_id": 15,
+      "team_id": 16,
       "team_name": "RKC Waalwijk",
       "team_abbreviation": "RKC",
       "team_stadium": "Mandemakers Stadion"
-    },
-    {
-      "team_id": 16,
-      "team_name": "SC Cambuur",
-      "team_abbreviation": "CAM",
-      "team_stadium": "Cambuur Stadion"
     },
     {
       "team_id": 17,
@@ -105,12 +105,6 @@
       "team_id": 18,
       "team_name": "Vitesse",
       "team_abbreviation": "VIT",
-      "team_stadium": "GelreDome"
-    },
-    {
-      "team_id": 19,
-      "team_name": "Willem II",
-      "team_abbreviation": "WIL",
-      "team_stadium": "Koning Willem II Stadion"
+      "team_stadium": "Stadion GelreDome"
     }
-  ]  
+  ]

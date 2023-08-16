@@ -1,122 +1,122 @@
 [
-    {
-      "team_id": 1,
-      "team_name": "AC Milan",
-      "team_abbreviation": "ACM",
-      "team_stadium": "San Siro"
-    },
-    {
-      "team_id": 2,
-      "team_name": "AS Roma",
-      "team_abbreviation": "ROM",
-      "team_stadium": "Stadio Olimpico"
-    },
-    {
-      "team_id": 3,
-      "team_name": "Atalanta",
-      "team_abbreviation": "ATA",
-      "team_stadium": "Gewiss Stadium"
-    },
-    {
-      "team_id": 4,
-      "team_name": "Bologna",
-      "team_abbreviation": "BOL",
-      "team_stadium": "Renato Dall'Ara"
-    },
-    {
-      "team_id": 5,
-      "team_name": "Cagliari",
-      "team_abbreviation": "CAG",
-      "team_stadium": "Sardegna Arena"
-    },
-    {
-      "team_id": 6,
-      "team_name": "Empoli",
-      "team_abbreviation": "EMP",
-      "team_stadium": "Stadio Carlo Castellani"
-    },
-    {
-      "team_id": 7,
-      "team_name": "Fiorentina",
-      "team_abbreviation": "FIO",
-      "team_stadium": "Stadio Artemio Franchi"
-    },
-    {
-      "team_id": 8,
-      "team_name": "Genoa",
-      "team_abbreviation": "GEN",
-      "team_stadium": "Stadio Luigi Ferraris"
-    },
-    {
-      "team_id": 9,
-      "team_name": "Hellas Verona",
-      "team_abbreviation": "VER",
-      "team_stadium": "Stadio Marcantonio Bentegodi"
-    },
-    {
-      "team_id": 10,
-      "team_name": "Inter Milan",
-      "team_abbreviation": "INT",
-      "team_stadium": "San Siro"
-    },
-    {
-      "team_id": 11,
-      "team_name": "Juventus",
-      "team_abbreviation": "JUV",
-      "team_stadium": "Allianz Stadium"
-    },
-    {
-      "team_id": 12,
-      "team_name": "Lazio",
-      "team_abbreviation": "LAZ",
-      "team_stadium": "Stadio Olimpico"
-    },
-    {
-      "team_id": 13,
-      "team_name": "Napoli",
-      "team_abbreviation": "NAP",
-      "team_stadium": "Diego Armando Maradona"
-    },
-    {
-      "team_id": 14,
-      "team_name": "Salernitana",
-      "team_abbreviation": "SAL",
-      "team_stadium": "Stadio Arechi"
-    },
-    {
-      "team_id": 15,
-      "team_name": "Sampdoria",
-      "team_abbreviation": "SAM",
-      "team_stadium": "Stadio Luigi Ferraris"
-    },
-    {
-      "team_id": 16,
-      "team_name": "Sassuolo",
-      "team_abbreviation": "SAS",
-      "team_stadium": "MAPEI Stadium"
-    },
-    {
-      "team_id": 17,
-      "team_name": "Spezia",
-      "team_abbreviation": "SPE",
-      "team_stadium": "Stadio Alberto Picco"
-    },
-    {
-      "team_id": 18,
-      "team_name": "Torino",
-      "team_abbreviation": "TOR",
-      "team_stadium": "Stadio Olimpico Grande Torino"
-    },
-    {
-      "team_id": 19,
-      "team_name": "Udinese",
-      "team_abbreviation": "UDI",
-      "team_stadium": "Dacia Arena"
-    },
-    {
-      "team_id": 20,
-      "team_name": "Venezia",
-      "team_abbreviation": "VEN",
-      "team_stadium": "Stadio Pierluigi Penzo"
-    }
-  ]  
+  {
+    "team_id": 1,
+    "team_name": "AC Milan",
+    "team_abbreviation": "ACM",
+    "team_stadium": "San Siro"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Atalanta",
+    "team_abbreviation": "ATA",
+    "team_stadium": "Gewiss Stadium"
+  },
+  {
+    "team_id": 3,
+    "team_name": "Bologna",
+    "team_abbreviation": "BOL",
+    "team_stadium": "Renato Dall'Ara"
+  },
+  {
+    "team_id": 4,
+    "team_name": "Cagliari",
+    "team_abbreviation": "CAG",
+    "team_stadium": "Sardegna Arena"
+  },
+  {
+    "team_id": 5,
+    "team_name": "Empoli",
+    "team_abbreviation": "EMP",
+    "team_stadium": "Carlo Castellani"
+  },
+  {
+    "team_id": 6,
+    "team_name": "Fiorentina",
+    "team_abbreviation": "FIO",
+    "team_stadium": "Stadio Artemio Franchi"
+  },
+  {
+    "team_id": 7,
+    "team_name": "Frosinone",
+    "team_abbreviation": "FRO",
+    "team_stadium": "Stadio Benito Stirpe"
+  },
+  {
+    "team_id": 8,
+    "team_name": "Genoa",
+    "team_abbreviation": "GEN",
+    "team_stadium": "Stadio Luigi Ferraris"
+  },
+  {
+    "team_id": 9,
+    "team_name": "Inter",
+    "team_abbreviation": "INT",
+    "team_stadium": "San Siro"
+  },
+  {
+    "team_id": 10,
+    "team_name": "Juventus",
+    "team_abbreviation": "JUV",
+    "team_stadium": "Allianz Stadium"
+  },
+  {
+    "team_id": 11,
+    "team_name": "Lazio",
+    "team_abbreviation": "LAZ",
+    "team_stadium": "Stadio Olimpico"
+  },
+  {
+    "team_id": 12,
+    "team_name": "Leece",
+    "team_abbreviation": "LEE",
+    "team_stadium": "Stadio Via del Mare"
+  },
+  {
+    "team_id": 13,
+    "team_name": "Monza",
+    "team_abbreviation": "MON",
+    "team_stadium": "Stadio Brianteo"
+  },
+  {
+    "team_id": 14,
+    "team_name": "Napoli",
+    "team_abbreviation": "NAP",
+    "team_stadium": "Diego Armando Maradona"
+  },
+  {
+    "team_id": 15,
+    "team_name": "Roma",
+    "team_abbreviation": "ROM",
+    "team_stadium": "Stadio Olimpico"
+  },
+  {
+    "team_id": 16,
+    "team_name": "Salernitana",
+    "team_abbreviation": "SAL",
+    "team_stadium": "Stadio Arechi"
+  },
+  {
+    "team_id": 17,
+    "team_name": "Sassuolo",
+    "team_abbreviation": "SAS",
+    "team_stadium": "Mapei Stadium"
+  },
+  {
+    "team_id": 18,
+    "team_name": "Torino",
+    "team_abbreviation": "TOR",
+    "team_stadium": "Stadio Olimpico Grande Torino"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Udinese",
+    "team_abbreviation": "UDI",
+    "team_stadium": "Dacia Arena"
+  },
+  {
+    "team_id": 20,
+    "team_name": "Verona",
+    "team_abbreviation": "VER",
+    "team_stadium": "Stadio Marc'Antonio Bentegodi"
+  }
+]

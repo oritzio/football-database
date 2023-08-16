@@ -1,122 +1,110 @@
 [
-    {
-      "team_id": 1,
-      "team_name": "Angers SCO",
-      "team_abbreviation": "SCO",
-      "team_stadium": "Stade Raymond-Kopa"
-    },
-    {
-      "team_id": 2,
-      "team_name": "AS Monaco",
-      "team_abbreviation": "ASM",
-      "team_stadium": "Stade Louis II"
-    },
-    {
-      "team_id": 3,
-      "team_name": "AS Saint-Étienne",
-      "team_abbreviation": "ASSE",
-      "team_stadium": "Stade Geoffroy-Guichard"
-    },
-    {
-      "team_id": 4,
-      "team_name": "FC Girondins de Bordeaux",
-      "team_abbreviation": "BOR",
-      "team_stadium": "Stade Matmut Atlantique"
-    },
-    {
-      "team_id": 5,
-      "team_name": "LOSC Lille",
-      "team_abbreviation": "LOSC",
+  {
+      "team_id": "1",
+      "team_name": "Brest",
+      "team_abbreviation": "BRE",
+      "team_stadium": "Stade Francis-Le Blé"
+  },
+  {
+      "team_id": "2",
+      "team_name": "Ciermont Foot",
+      "team_abbreviation": "CIE",
+      "team_stadium": "Stade Gabriel Montpied"
+  },
+  {
+      "team_id": "3",
+      "team_name": "La Havre",
+      "team_abbreviation": "HAV",
+      "team_stadium": "Stade Océane"
+  },
+  {
+      "team_id": "4",
+      "team_name": "Lens",
+      "team_abbreviation": "LEN",
+      "team_stadium": "Stade Bollaert-Delelis"
+  },
+  {
+      "team_id": "5",
+      "team_name": "Lorient",
+      "team_abbreviation": "LOR",
+      "team_stadium": "Stade du Moustoir"
+  },
+  {
+      "team_id": "6",
+      "team_name": "LOSC",
+      "team_abbreviation": "LOS",
       "team_stadium": "Stade Pierre-Mauroy"
-    },
-    {
-      "team_id": 6,
-      "team_name": "Montpellier HSC",
-      "team_abbreviation": "MHS",
+  },
+  {
+      "team_id": "7",
+      "team_name": "Lyon",
+      "team_abbreviation": "LYO",
+      "team_stadium": "Parc Olympique Lyonnais"
+  },
+  {
+      "team_id": "8",
+      "team_name": "Marseille",
+      "team_abbreviation": "MAR",
+      "team_stadium": "Stade Vélodrome"
+  },
+  {
+      "team_id": "9",
+      "team_name": "Metz",
+      "team_abbreviation": "MET",
+      "team_stadium": "Stade Saint-Symphorien"
+  },
+  {
+      "team_id": "10",
+      "team_name": "Monaco",
+      "team_abbreviation": "MON",
+      "team_stadium": "Stade Louis II"
+  },
+  {
+      "team_id": "11",
+      "team_name": "Montpellier",
+      "team_abbreviation": "MON",
       "team_stadium": "Stade de la Mosson"
-    },
-    {
-      "team_id": 7,
+  },
+  {
+      "team_id": "12",
       "team_name": "Nantes",
       "team_abbreviation": "NAN",
       "team_stadium": "Stade de la Beaujoire"
-    },
-    {
-      "team_id": 8,
-      "team_name": "OGC Nice",
+  },
+  {
+      "team_id": "13",
+      "team_name": "Nice",
       "team_abbreviation": "NIC",
       "team_stadium": "Allianz Riviera"
-    },
-    {
-      "team_id": 9,
-      "team_name": "Olympique de Marseille",
-      "team_abbreviation": "OM",
-      "team_stadium": "Orange Vélodrome"
-    },
-    {
-      "team_id": 10,
-      "team_name": "Olympique Lyonnais",
-      "team_abbreviation": "OL",
-      "team_stadium": "Groupama Stadium"
-    },
-    {
-      "team_id": 11,
-      "team_name": "Paris Saint-Germain",
+  },
+  {
+      "team_id": "14",
+      "team_name": "PSG",
       "team_abbreviation": "PSG",
       "team_stadium": "Parc des Princes"
-    },
-    {
-      "team_id": 12,
-      "team_name": "RC Lens",
-      "team_abbreviation": "RCL",
-      "team_stadium": "Stade Bollaert-Delelis"
-    },
-    {
-      "team_id": 13,
-      "team_name": "Stade de Reims",
+  },
+  {
+      "team_id": "15",
+      "team_name": "Reims",
       "team_abbreviation": "REI",
       "team_stadium": "Stade Auguste-Delaune"
-    },
-    {
-      "team_id": 14,
-      "team_name": "Stade Rennais FC",
+  },
+  {
+      "team_id": "16",
+      "team_name": "Rennes",
       "team_abbreviation": "REN",
       "team_stadium": "Roazhon Park"
-    },
-    {
-      "team_id": 15,
+  },
+  {
+      "team_id": "17",
       "team_name": "Strasbourg",
       "team_abbreviation": "STR",
       "team_stadium": "Stade de la Meinau"
-    },
-    {
-      "team_id": 16,
-      "team_name": "Troyes",
-      "team_abbreviation": "TRO",
-      "team_stadium": "Stade de l'Aube"
-    },
-    {
-      "team_id": 17,
-      "team_name": "FC Lorient",
-      "team_abbreviation": "FCL",
-      "team_stadium": "Stade du Moustoir"
-    },
-    {
-      "team_id": 18,
-      "team_name": "FC Metz",
-      "team_abbreviation": "MET",
-      "team_stadium": "Stade Saint-Symphorien"
-    },
-    {
-      "team_id": 19,
-      "team_name": "RC Nantes",
-      "team_abbreviation": "NAN",
-      "team_stadium": "Stade de la Beaujoire"
-    },
-    {
-      "team_id": 20,
-      "team_name": "Stade Brestois 29",
-      "team_abbreviation": "SB29",
-      "team_stadium": "Stade Francis-Le Blé"
-    }
-  ]  
+  },
+  {
+      "team_id": "18",
+      "team_name": "Toulouse",
+      "team_abbreviation": "TOU",
+      "team_stadium": "Stadium de Toulouse"
+  }
+]

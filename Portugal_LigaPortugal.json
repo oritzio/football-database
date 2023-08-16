@@ -7,27 +7,27 @@
     },
     {
       "team_id": 2,
-      "team_name": "Belenenses SAD",
-      "team_abbreviation": "BEL",
-      "team_stadium": "Estádio Nacional"
-    },
-    {
-      "team_id": 3,
       "team_name": "Benfica",
       "team_abbreviation": "BEN",
       "team_stadium": "Estádio da Luz"
     },
     {
-      "team_id": 4,
+      "team_id": 3,
       "team_name": "Boavista",
       "team_abbreviation": "BOA",
       "team_stadium": "Estádio do Bessa"
     },
     {
-      "team_id": 5,
+      "team_id": 4,
       "team_name": "Braga",
       "team_abbreviation": "BRA",
       "team_stadium": "Estádio Municipal de Braga"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Casa Pia",
+      "team_abbreviation": "CAS",
+      "team_stadium": "Estádio Pina Manique"
     },
     {
       "team_id": 6,
@@ -37,68 +37,74 @@
     },
     {
       "team_id": 7,
-      "team_name": "Famalicão",
+      "team_name": "Estrela",
+      "team_abbreviation": "ESTR",
+      "team_stadium": "Estádio José Gomes"
+    },
+    {
+      "team_id": 8,
+      "team_name": "FC Famalicão",
       "team_abbreviation": "FAM",
       "team_stadium": "Estádio Municipal 22 de Junho"
     },
     {
-      "team_id": 8,
+      "team_id": 9,
+      "team_name": "FC Porto",
+      "team_abbreviation": "FCP",
+      "team_stadium": "Estádio do Dragão"
+    },
+    {
+      "team_id": 10,
+      "team_name": "GD Chaves",
+      "team_abbreviation": "CHA",
+      "team_stadium": "Estádio Municipal Eng. Manuel Branco Teixeira"
+    },
+    {
+      "team_id": 11,
       "team_name": "Gil Vicente",
       "team_abbreviation": "GIL",
       "team_stadium": "Estádio Cidade de Barcelos"
     },
     {
-      "team_id": 9,
-      "team_name": "Marítimo",
-      "team_abbreviation": "MAR",
-      "team_stadium": "Estádio dos Barreiros"
+      "team_id": 12,
+      "team_name": "Guimarães",
+      "team_abbreviation": "GUI",
+      "team_stadium": "Estádio D. Afonso Henriques"
     },
     {
-      "team_id": 10,
+      "team_id": 13,
       "team_name": "Moreirense",
       "team_abbreviation": "MOR",
-      "team_stadium": "Parque de Jogos Comendador Joaquim de Almeida Freitas"
+      "team_stadium": "Parque Desportivo Comendador Joaquim de Almeida Freitas"
     },
     {
-      "team_id": 11,
-      "team_name": "Paços de Ferreira",
-      "team_abbreviation": "PFE",
-      "team_stadium": "Estádio Capital do Móvel"
-    },
-    {
-      "team_id": 12,
+      "team_id": 14,
       "team_name": "Portimonense",
       "team_abbreviation": "POR",
       "team_stadium": "Estádio Municipal de Portimão"
     },
     {
-      "team_id": 13,
-      "team_name": "Porto",
-      "team_abbreviation": "POR",
-      "team_stadium": "Estádio do Dragão"
-    },
-    {
-      "team_id": 14,
-      "team_name": "Santa Clara",
-      "team_abbreviation": "SAN",
-      "team_stadium": "Estádio de São Miguel"
-    },
-    {
       "team_id": 15,
-      "team_name": "Sporting CP",
-      "team_abbreviation": "SPO",
-      "team_stadium": "Estádio José Alvalade"
+      "team_name": "Rio Ave",
+      "team_abbreviation": "RAV",
+      "team_stadium": "Estádio dos Arcos"
     },
     {
       "team_id": 16,
-      "team_name": "Tondela",
-      "team_abbreviation": "TON",
-      "team_stadium": "Estádio João Cardoso"
+      "team_name": "SC Farense",
+      "team_abbreviation": "FAR",
+      "team_stadium": "Estádio de São Luís"
     },
     {
       "team_id": 17,
+      "team_name": "Sporting CP",
+      "team_abbreviation": "SCP",
+      "team_stadium": "Estádio José Alvalade"
+    },
+    {
+      "team_id": 18,
       "team_name": "Vizela",
       "team_abbreviation": "VIZ",
-      "team_stadium": "Estádio do FC Vizela"
+      "team_stadium": "Estádio do Futebol Clube de Vizela"
     }
   ]

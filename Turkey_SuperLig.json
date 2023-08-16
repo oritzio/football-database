@@ -1,110 +1,122 @@
 [
-    {
-      "team_id": 1,
-      "team_name": "Alanyaspor",
-      "team_abbreviation": "ALA",
-      "team_stadium": "Bahçeşehir Okulları Stadium"
-    },
-    {
-      "team_id": 2,
-      "team_name": "Antalyaspor",
-      "team_abbreviation": "ANT",
-      "team_stadium": "Antalya Stadyumu"
-    },
-    {
-      "team_id": 3,
-      "team_name": "Beşiktaş",
-      "team_abbreviation": "BJK",
-      "team_stadium": "Vodafone Park"
-    },
-    {
-      "team_id": 4,
-      "team_name": "Çaykur Rizespor",
-      "team_abbreviation": "RIZ",
-      "team_stadium": "Çaykur Didi Stadyumu"
-    },
-    {
-      "team_id": 5,
-      "team_name": "Fenerbahçe",
-      "team_abbreviation": "FEN",
-      "team_stadium": "Ülker Stadyumu"
-    },
-    {
-      "team_id": 6,
-      "team_name": "Galatasaray",
-      "team_abbreviation": "GAL",
-      "team_stadium": "Türk Telekom Stadium"
-    },
-    {
-      "team_id": 7,
-      "team_name": "Gaziantep FK",
-      "team_abbreviation": "GAZ",
-      "team_stadium": "Gaziantep Stadyumu"
-    },
-    {
-      "team_id": 8,
-      "team_name": "Giresunspor",
-      "team_abbreviation": "GIR",
-      "team_stadium": "Giresun Atatürk Stadyumu"
-    },
-    {
-      "team_id": 9,
-      "team_name": "Hatayspor",
-      "team_abbreviation": "HAT",
-      "team_stadium": "Antakya Atatürk Stadyumu"
-    },
-    {
-      "team_id": 10,
-      "team_name": "İstanbul Başakşehir",
-      "team_abbreviation": "IBFK",
-      "team_stadium": "Fatih Terim Stadyumu"
-    },
-    {
-      "team_id": 11,
-      "team_name": "Kasımpaşa",
-      "team_abbreviation": "KAS",
-      "team_stadium": "Recep Tayyip Erdoğan Stadyumu"
-    },
-    {
-      "team_id": 12,
-      "team_name": "Kayserispor",
-      "team_abbreviation": "KAY",
-      "team_stadium": "Kadir Has Stadium"
-    },
-    {
-      "team_id": 13,
-      "team_name": "Konyaspor",
-      "team_abbreviation": "KON",
-      "team_stadium": "Konya Büyükşehir Stadium"
-    },
-    {
-      "team_id": 14,
-      "team_name": "MKE Ankaragücü",
-      "team_abbreviation": "ANK",
-      "team_stadium": "Eryaman Stadium"
-    },
-    {
-      "team_id": 15,
-      "team_name": "Rizespor",
-      "team_abbreviation": "RIZ",
-      "team_stadium": "Çaykur Didi Stadyumu"
-    },
-    {
-      "team_id": 16,
-      "team_name": "Sivasspor",
-      "team_abbreviation": "SIV",
-      "team_stadium": "Yeni 4 Eylül Stadium"
-    },
-    {
-      "team_id": 17,
-      "team_name": "Trabzonspor",
-      "team_abbreviation": "TS",
-      "team_stadium": "Medical Park Stadyumu"
-    },
-    {
-      "team_id": 18,
-      "team_name": "Yeni Malatyaspor",
-      "team_abbreviation": "YMA",
-      "team_stadium": "Malatya Stadyumu"
-    }
-  ]  
+  {
+    "team_id": 1,
+    "team_name": "Adana Demirspor",
+    "team_abbreviation": "ADS",
+    "team_stadium": "5 Ocak Stadium"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Alanyaspor",
+    "team_abbreviation": "ALN",
+    "team_stadium": "Bahçeşehir Okulları Stadium"
+  },
+  {
+    "team_id": 3,
+    "team_name": "Ankaragücü",
+    "team_abbreviation": "ANK",
+    "team_stadium": "Eryaman Stadium"
+  },
+  {
+    "team_id": 4,
+    "team_name": "Antalyaspor",
+    "team_abbreviation": "ANT",
+    "team_stadium": "Antalya Stadium"
+  },
+  {
+    "team_id": 5,
+    "team_name": "Başakşehir",
+    "team_abbreviation": "BAŞ",
+    "team_stadium": "Başakşehir Fatih Terim Stadium"
+  },
+  {
+    "team_id": 6,
+    "team_name": "Beşiktaş",
+    "team_abbreviation": "BJK",
+    "team_stadium": "Vodafone Park"
+  },
+  {
+    "team_id": 7,
+    "team_name": "Fenerbahçe",
+    "team_abbreviation": "FB",
+    "team_stadium": "Şükrü Saracoğlu Stadium"
+  },
+  {
+    "team_id": 8,
+    "team_name": "Galatasaray",
+    "team_abbreviation": "GS",
+    "team_stadium": "Türk Telekom Stadium"
+  },
+  {
+    "team_id": 9,
+    "team_name": "Gaziantep",
+    "team_abbreviation": "GAZ",
+    "team_stadium": "Gaziantep Stadium"
+  },
+  {
+    "team_id": 10,
+    "team_name": "Hatayspor",
+    "team_abbreviation": "HTY",
+    "team_stadium": "Antakya Atatürk Stadium"
+  },
+  {
+    "team_id": 11,
+    "team_name": "Istanbulspor AŞ",
+    "team_abbreviation": "IST",
+    "team_stadium": "Necmi Kadıoğlu Stadium"
+  },
+  {
+    "team_id": 12,
+    "team_name": "Kayserispor",
+    "team_abbreviation": "KYS",
+    "team_stadium": "Kadir Has Stadium"
+  },
+  {
+    "team_id": 13,
+    "team_name": "Kasımpaşa",
+    "team_abbreviation": "KAS",
+    "team_stadium": "Recep Tayyip Erdoğan Stadium"
+  },
+  {
+    "team_id": 14,
+    "team_name": "Karagümrük",
+    "team_abbreviation": "KGM",
+    "team_stadium": "Atatürk Olympic Stadium"
+  },
+  {
+    "team_id": 15,
+    "team_name": "Konyaspor",
+    "team_abbreviation": "KON",
+    "team_stadium": "Konya Büyükşehir Stadium"
+  },
+  {
+    "team_id": 16,
+    "team_name": "Pendikspor",
+    "team_abbreviation": "PEN",
+    "team_stadium": "Pendik Stadium"
+  },
+  {
+    "team_id": 17,
+    "team_name": "Rizespor",
+    "team_abbreviation": "RIZ",
+    "team_stadium": "Çaykur Didi Stadium"
+  },
+  {
+    "team_id": 18,
+    "team_name": "Samsunspor",
+    "team_abbreviation": "SAM",
+    "team_stadium": "Samsun Stadium"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Sivasspor",
+    "team_abbreviation": "SIV",
+    "team_stadium": "Yeni Sivas 4 Eylül Stadium"
+  },
+  {
+    "team_id": 20,
+    "team_name": "Trabzonspor",
+    "team_abbreviation": "TRA",
+    "team_stadium": "Medical Park Stadium"
+  }
+]

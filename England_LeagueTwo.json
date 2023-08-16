@@ -1,146 +1,146 @@
 [
-    {
+  {
       "team_id": 1,
+      "team_name": "Accrington Stanley",
+      "team_abbreviation": "ASFC",
+      "team_stadium": "Crown Ground"
+  },
+  {
+      "team_id": 2,
+      "team_name": "AFC Wimbledon",
+      "team_abbreviation": "AFCW",
+      "team_stadium": "Plough Lane"
+  },
+  {
+      "team_id": 3,
       "team_name": "Barrow",
       "team_abbreviation": "BAR",
       "team_stadium": "Holker Street"
-    },
-    {
-      "team_id": 2,
-      "team_name": "Bristol Rovers",
-      "team_abbreviation": "BRR",
-      "team_stadium": "Memorial Stadium"
-    },
-    {
-      "team_id": 3,
-      "team_name": "Carlisle United",
-      "team_abbreviation": "CAR",
-      "team_stadium": "Brunton Park"
-    },
-    {
+  },
+  {
       "team_id": 4,
+      "team_name": "Bradford City",
+      "team_abbreviation": "BRD",
+      "team_stadium": "Utilita Energy Stadium"
+  },
+  {
+      "team_id": 5,
       "team_name": "Colchester United",
       "team_abbreviation": "COL",
       "team_stadium": "JobServe Community Stadium"
-    },
-    {
-      "team_id": 5,
-      "team_name": "Crawley Town",
-      "team_abbreviation": "CRA",
-      "team_stadium": "Broadfield Stadium"
-    },
-    {
+  },
+  {
       "team_id": 6,
-      "team_name": "Exeter City",
-      "team_abbreviation": "EXE",
-      "team_stadium": "St James Park"
-    },
-    {
+      "team_name": "Crawley Town",
+      "team_abbreviation": "CRAW",
+      "team_stadium": "The People's Pension Stadium"
+  },
+  {
       "team_id": 7,
+      "team_name": "Crewe Alexandra",
+      "team_abbreviation": "CRE",
+      "team_stadium": "Alexandra Stadium"
+  },
+  {
+      "team_id": 8,
+      "team_name": "Doncaster Rovers",
+      "team_abbreviation": "DON",
+      "team_stadium": "Keepmoat Stadium"
+  },
+  {
+      "team_id": 9,
       "team_name": "Forest Green Rovers",
       "team_abbreviation": "FGR",
       "team_stadium": "The New Lawn"
-    },
-    {
-      "team_id": 8,
+  },
+  {
+      "team_id": 10,
+      "team_name": "Gillingham",
+      "team_abbreviation": "GIL",
+      "team_stadium": "Priestfield Stadium"
+  },
+  {
+      "team_id": 11,
+      "team_name": "Grimsby Town",
+      "team_abbreviation": "GRT",
+      "team_stadium": "Blundell Park"
+  },
+  {
+      "team_id": 12,
       "team_name": "Harrogate Town",
       "team_abbreviation": "HAR",
       "team_stadium": "Wetherby Road"
-    },
-    {
-      "team_id": 9,
-      "team_name": "Hartlepool United",
-      "team_abbreviation": "HPU",
-      "team_stadium": "Victoria Park"
-    },
-    {
-      "team_id": 10,
-      "team_name": "Leyton Orient",
-      "team_abbreviation": "LEY",
-      "team_stadium": "Breyer Group Stadium"
-    },
-    {
-      "team_id": 11,
+  },
+  {
+      "team_id": 13,
       "team_name": "Mansfield Town",
       "team_abbreviation": "MAN",
       "team_stadium": "One Call Stadium"
-    },
-    {
-      "team_id": 12,
-      "team_name": "Newport County",
-      "team_abbreviation": "NEW",
-      "team_stadium": "Rodney Parade"
-    },
-    {
-      "team_id": 13,
-      "team_name": "Northampton Town",
-      "team_abbreviation": "NOR",
-      "team_stadium": "Sixfields Stadium"
-    },
-    {
+  },
+  {
       "team_id": 14,
-      "team_name": "Oldham Athletic",
-      "team_abbreviation": "OLD",
-      "team_stadium": "Boundary Park"
-    },
-    {
+      "team_name": "Milton Keynes Dons",
+      "team_abbreviation": "MKD",
+      "team_stadium": "Stadium MK"
+  },
+  {
       "team_id": 15,
-      "team_name": "Port Vale",
-      "team_abbreviation": "POR",
-      "team_stadium": "Vale Park"
-    },
-    {
+      "team_name": "Morecambe",
+      "team_abbreviation": "MOR",
+      "team_stadium": "Globe Arena"
+  },
+  {
       "team_id": 16,
-      "team_name": "Rochdale",
-      "team_abbreviation": "ROC",
-      "team_stadium": "Spotland Stadium"
-    },
-    {
+      "team_name": "Newport County AFC",
+      "team_abbreviation": "NCAFC",
+      "team_stadium": "Rodney Parade"
+  },
+  {
       "team_id": 17,
+      "team_name": "Notts County",
+      "team_abbreviation": "NOT",
+      "team_stadium": "Meadow Lane"
+  },
+  {
+      "team_id": 18,
       "team_name": "Salford City",
       "team_abbreviation": "SAL",
       "team_stadium": "Moor Lane"
-    },
-    {
-      "team_id": 18,
-      "team_name": "Scunthorpe United",
-      "team_abbreviation": "SCU",
-      "team_stadium": "Glanford Park"
-    },
-    {
+  },
+  {
       "team_id": 19,
+      "team_name": "Stockport County",
+      "team_abbreviation": "STO",
+      "team_stadium": "Edgeley Park"
+  },
+  {
+      "team_id": 20,
       "team_name": "Sutton United",
       "team_abbreviation": "SUT",
       "team_stadium": "Gander Green Lane"
-    },
-    {
-      "team_id": 20,
+  },
+  {
+      "team_id": 21,
       "team_name": "Swindon Town",
       "team_abbreviation": "SWI",
       "team_stadium": "The County Ground"
-    },
-    {
-      "team_id": 21,
+  },
+  {
+      "team_id": 22,
       "team_name": "Tranmere Rovers",
       "team_abbreviation": "TRA",
       "team_stadium": "Prenton Park"
-    },
-    {
-      "team_id": 22,
+  },
+  {
+      "team_id": 23,
       "team_name": "Walsall",
       "team_abbreviation": "WAL",
-      "team_stadium": "Bescot Stadium"
-    },
-    {
-      "team_id": 23,
-      "team_name": "Stevenage",
-      "team_abbreviation": "STE",
-      "team_stadium": "Broadhall Way"
-    },
-    {
+      "team_stadium": "Banks's Stadium"
+  },
+  {
       "team_id": 24,
-      "team_name": "Rotherham United",
-      "team_abbreviation": "ROT",
-      "team_stadium": "New York Stadium"
-    }
-  ]  
+      "team_name": "Wrexham",
+      "team_abbreviation": "WRE",
+      "team_stadium": "Racecourse Ground"
+  }
+]

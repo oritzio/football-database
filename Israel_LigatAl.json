@@ -1,92 +1,86 @@
 [
-    {
-      "team_id": 1,
-      "team_name": "Bnei Yehuda Tel Aviv",
-      "team_abbreviation": "BYA",
-      "team_stadium": "Bloomfield Stadium"
-    },
-    {
-      "team_id": 2,
-      "team_name": "Hapoel Be'er Sheva",
-      "team_abbreviation": "HBS",
-      "team_stadium": "Toto Turner Stadium"
-    },
-    {
-      "team_id": 3,
-      "team_name": "Hapoel Hadera",
-      "team_abbreviation": "HHD",
-      "team_stadium": "Netanya Stadium"
-    },
-    {
-      "team_id": 4,
-      "team_name": "Hapoel Haifa",
-      "team_abbreviation": "HHA",
-      "team_stadium": "Sammy Ofer Stadium"
-    },
-    {
-      "team_id": 5,
-      "team_name": "Hapoel Jerusalem",
-      "team_abbreviation": "HJE",
-      "team_stadium": "Teddy Stadium"
-    },
-    {
-      "team_id": 6,
-      "team_name": "Hapoel Kfar Saba",
-      "team_abbreviation": "HKS",
-      "team_stadium": "Levita Stadium"
-    },
-    {
-      "team_id": 7,
-      "team_name": "Hapoel Ra'anana",
-      "team_abbreviation": "HRA",
-      "team_stadium": "Lod Municipal Stadium"
-    },
-    {
-      "team_id": 8,
-      "team_name": "Hapoel Tel Aviv",
-      "team_abbreviation": "HTA",
-      "team_stadium": "Bloomfield Stadium"
-    },
-    {
-      "team_id": 9,
-      "team_name": "Maccabi Haifa",
-      "team_abbreviation": "MHA",
-      "team_stadium": "Sammy Ofer Stadium"
-    },
-    {
-      "team_id": 10,
-      "team_name": "Maccabi Netanya",
-      "team_abbreviation": "MNE",
-      "team_stadium": "Netanya Stadium"
-    },
-    {
-      "team_id": 11,
-      "team_name": "Maccabi Petah Tikva",
-      "team_abbreviation": "MPT",
-      "team_stadium": "HaMoshava Stadium"
-    },
-    {
-      "team_id": 12,
-      "team_name": "Maccabi Tel Aviv",
-      "team_abbreviation": "MTA",
-      "team_stadium": "Bloomfield Stadium"
-    },
-    {
-      "team_id": 13,
-      "team_name": "Sektzia Nes Tziona",
-      "team_abbreviation": "SNT",
-      "team_stadium": "Nes Tziona Stadium"
-    },
-    {
-      "team_id": 14,
-      "team_name": "Bnei Sakhnin",
-      "team_abbreviation": "BSK",
-      "team_stadium": "Doha Stadium"
-    },
-    {
-      "team_id": 15,
-      "team_name": "Hapoel Ironi Kiryat Shmona",
-      "team_abbreviation": "HIK",
-      "team_stadium": "Kiryat Shmona Municipal Stadium"
-    }
-  ]  
+  {
+    "team_id": "1",
+    "team_name": "Ashdod",
+    "team_abbreviation": "ASH",
+    "team_stadium": "Ashdod Municipal Stadium"
+  },
+  {
+    "team_id": "2",
+    "team_name": "Beitar Jerusalem",
+    "team_abbreviation": "BEI",
+    "team_stadium": "Teddy Stadium"
+  },
+  {
+    "team_id": "3",
+    "team_name": "Bnei Sakhnin",
+    "team_abbreviation": "SAK",
+    "team_stadium": "Doha Stadium"
+  },
+  {
+    "team_id": "4",
+    "team_name": "Hapoel Beer Sheva",
+    "team_abbreviation": "HBS",
+    "team_stadium": "Toto Turner Stadium"
+  },
+  {
+    "team_id": "5",
+    "team_name": "Hapoel Hadera",
+    "team_abbreviation": "HHD",
+    "team_stadium": "Netanya Stadium"
+  },
+  {
+    "team_id": "6",
+    "team_name": "Hapoel Haifa",
+    "team_abbreviation": "HHA",
+    "team_stadium": "Sammy Ofer Stadium"
+  },
+  {
+    "team_id": "7",
+    "team_name": "Hapoel Jerusalem",
+    "team_abbreviation": "HJL",
+    "team_stadium": "Teddy Stadium"
+  },
+  {
+    "team_id": "8",
+    "team_name": "Hapoel Petah Tikva",
+    "team_abbreviation": "HPT",
+    "team_stadium": "HaMoshava Stadium"
+  },
+  {
+    "team_id": "9",
+    "team_name": "Hapoel Tel Aviv",
+    "team_abbreviation": "HTA",
+    "team_stadium": "Bloomfield Stadium"
+  },
+  {
+    "team_id": "10",
+    "team_name": "Maccabi Bnei Reineh",
+    "team_abbreviation": "MBR",
+    "team_stadium": "N/A"
+  },
+  {
+    "team_id": "11",
+    "team_name": "Maccabi Haifa",
+    "team_abbreviation": "MHA",
+    "team_stadium": "Sammy Ofer Stadium"
+  },
+  {
+    "team_id": "12",
+    "team_name": "Maccabi Netanya",
+    "team_abbreviation": "MNE",
+    "team_stadium": "Netanya Stadium"
+  },
+  {
+    "team_id": "13",
+    "team_name": "Maccabi Petach Tikva",
+    "team_abbreviation": "MPT",
+    "team_stadium": "HaMoshava Stadium"
+  },
+  {
+    "team_id": "14",
+    "team_name": "Maccabi Tel Aviv",
+    "team_abbreviation": "MTA",
+    "team_stadium": "Bloomfield Stadium"
+  }
+]
