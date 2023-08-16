@@ -1,0 +1,74 @@
+[
+    {
+      "team_id": "1",
+      "team_name": "FC Nordsjaelland",
+      "team_abbreviation": "NORD",
+      "team_stadium": "Stadium Nordsjælland"
+    },
+    {
+      "team_id": "2",
+      "team_name": "FC Copenhagen",
+      "team_abbreviation": "CPH",
+      "team_stadium": "Parken Stadium"
+    },
+    {
+      "team_id": "3",
+      "team_name": "FC Midtjylland",
+      "team_abbreviation": "MID",
+      "team_stadium": "MCH Arena"
+    },
+    {
+      "team_id": "4",
+      "team_name": "AGF Aarhus",
+      "team_abbreviation": "AGF",
+      "team_stadium": "Ceres Park"
+    },
+    {
+      "team_id": "5",
+      "team_name": "Brøndby",
+      "team_abbreviation": "BRO",
+      "team_stadium": "Brøndby Stadium"
+    },
+    {
+      "team_id": "6",
+      "team_name": "Viborg FF",
+      "team_abbreviation": "VIB",
+      "team_stadium": "Energi Viborg Arena"
+    },
+    {
+      "team_id": "7",
+      "team_name": "Lyngby",
+      "team_abbreviation": "LBK",
+      "team_stadium": "Lyngby Stadion"
+    },
+    {
+      "team_id": "8",
+      "team_name": "Odense Boldklub",
+      "team_abbreviation": "OBK",
+      "team_stadium": "Nature Energy Park"
+    },
+    {
+      "team_id": "9",
+      "team_name": "Silkeborg IF",
+      "team_abbreviation": "SIF",
+      "team_stadium": "JYSK Park"
+    },
+    {
+      "team_id": "10",
+      "team_name": "Hvidovre IF",
+      "team_abbreviation": "HIF",
+      "team_stadium": "Hvidovre Stadion"
+    },
+    {
+      "team_id": "11",
+      "team_name": "Randers FC",
+      "team_abbreviation": "RAN",
+      "team_stadium": "BioNutria Park Randers"
+    },
+    {
+      "team_id": "12",
+      "team_name": "Vejle BK",
+      "team_abbreviation": "VEJ",
+      "team_stadium": "Vejle Stadion"
+    }
+  ]

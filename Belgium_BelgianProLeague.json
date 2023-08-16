@@ -1,0 +1,98 @@
+[
+    {
+        "team_id": 1,
+        "team_name": "Anderlecht",
+        "team_abbreviation": "AND",
+        "team_stadium": "Stade Constant Vanden Stock"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Antwerp",
+        "team_abbreviation": "ANT",
+        "team_stadium": "Bosuilstadion"
+    },
+    {
+        "team_id": 3,
+        "team_name": "Cercle Brugge KSV",
+        "team_abbreviation": "CEB",
+        "team_stadium": "Jan Breydel Stadium"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Club Brugge",
+        "team_abbreviation": "CLB",
+        "team_stadium": "Jan Breydel Stadium"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Eupen",
+        "team_abbreviation": "EUP",
+        "team_stadium": "Kehrwegstadion"
+    },
+    {
+        "team_id": 6,
+        "team_name": "KAA Gent",
+        "team_abbreviation": "GNT",
+        "team_stadium": "Ghelamco Arena"
+    },
+    {
+        "team_id": 7,
+        "team_name": "KV Kortrijk",
+        "team_abbreviation": "KVK",
+        "team_stadium": "Guldensporenstadion"
+    },
+    {
+        "team_id": 8,
+        "team_name": "KV Mechelen",
+        "team_abbreviation": "KVM",
+        "team_stadium": "AFAS-stadion Achter de Kazerne"
+    },
+    {
+        "team_id": 9,
+        "team_name": "KVC Westerlo",
+        "team_abbreviation": "WES",
+        "team_stadium": "Het Kuipje"
+    },
+    {
+        "team_id": 10,
+        "team_name": "Oud-Heverlee Leuven",
+        "team_abbreviation": "OHL",
+        "team_stadium": "King Power at Den Dreef Stadium"
+    },
+    {
+        "team_id": 11,
+        "team_name": "Racing Genk",
+        "team_abbreviation": "GNK",
+        "team_stadium": "Luminus Arena"
+    },
+    {
+        "team_id": 12,
+        "team_name": "Royal Charleroi SC",
+        "team_abbreviation": "CHA",
+        "team_stadium": "Stade du Pays de Charleroi"
+    },
+    {
+        "team_id": 13,
+        "team_name": "RWDM",
+        "team_abbreviation": "RWD",
+        "team_stadium": "Edmond Machtens Stadium"
+    },
+    {
+        "team_id": 14,
+        "team_name": "Sint-Truidense",
+        "team_abbreviation": "STV",
+        "team_stadium": "Stayen"
+    },
+    {
+        "team_id": 15,
+        "team_name": "Standard Liege",
+        "team_abbreviation": "STL",
+        "team_stadium": "Stade Maurice Dufrasne"
+    },
+    {
+        "team_id": 16,
+        "team_name": "Union St.-Gilloise",
+        "team_abbreviation": "USG",
+        "team_stadium": "Stade Joseph Marien"
+    }
+]

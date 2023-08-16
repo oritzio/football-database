@@ -1,0 +1,62 @@
+[
+    {
+        "team_id": 1,
+        "team_name": "Dinamo Zagreb",
+        "team_abbreviation": "DIN",
+        "team_stadium": "Stadion Maksimir"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Gorica",
+        "team_abbreviation": "GOR",
+        "team_stadium": "Stadion Radnik"
+    },
+    {
+        "team_id": 3,
+        "team_name": "Hajduk Split",
+        "team_abbreviation": "HAJ",
+        "team_stadium": "Stadion Poljud"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Istra",
+        "team_abbreviation": "IST",
+        "team_stadium": "Stadion Aldo Drosina"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Lokomotiva Zagreb",
+        "team_abbreviation": "LOK",
+        "team_stadium": "Stadion Kranjčevićeva"
+    },
+    {
+        "team_id": 6,
+        "team_name": "Osijek",
+        "team_abbreviation": "OSI",
+        "team_stadium": "Stadion Gradski vrt"
+    },
+    {
+        "team_id": 7,
+        "team_name": "Rijeka",
+        "team_abbreviation": "RIJ",
+        "team_stadium": "Stadion Rujevica"
+    },
+    {
+        "team_id": 8,
+        "team_name": "Rudeš",
+        "team_abbreviation": "RUD",
+        "team_stadium": "Stadion Kranjčevićeva"
+    },
+    {
+        "team_id": 9,
+        "team_name": "Slaven Belupo",
+        "team_abbreviation": "SLA",
+        "team_stadium": "Stadion Ivan Kušek Apaš"
+    },
+    {
+        "team_id": 10,
+        "team_name": "Varaždin",
+        "team_abbreviation": "VAR",
+        "team_stadium": "Stadion Anđelko Herjavec"
+    }
+]

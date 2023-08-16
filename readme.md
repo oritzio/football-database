@@ -30,6 +30,15 @@ Data is based on the 2023/2024 season.
 ### Portugal
 ![Preview](./images/pt.png) [Liga Portugal](Portugal_LigaPortugal.json)
 
+### Brazil
+![Preview](./images/br.png) [MLB](Brazil_BrazilianSerieA.json)
+
+### Belgium
+![Preview](./images/be.png) [MLB](Belgium_BelgianProLeague.json)
+
+### Denmark
+![Preview](./images/dk.png) [MLB](Denmark_DanishSuperliga.json)
+
 ### Scotland
 ![Preview](./images/gb-sct.png) [Scottish Premiership](Scotland_ScottishPremiership.json)
 
@@ -38,6 +47,12 @@ Data is based on the 2023/2024 season.
 
 ### Sweden
 ![Preview](./images/se.png) [Allsvenskan](Sweden_Allsvenskan.json)
+
+### Croatia
+![Preview](./images/hr.png) [Allsvenskan](Croatia_CroatianFootballLeague.json)
+
+### Greece
+![Preview](./images/gr.png) [Allsvenskan](Greece_GreekSuperLeague.json)
 
 ### Israel
 ![Preview](./images/il.png) [Ligat Al](Israel_LigatAl.json)
@@ -48,5 +63,6 @@ Data is based on the 2023/2024 season.
 ![Preview](./images/us.png) [NHL](USA_NHL.json) <br>
 ![Preview](./images/us.png) [MLS](USA_MLS.json) <br>
 ![Preview](./images/us.png) [MLB](USA_MLB.json) <br>
+
 
 

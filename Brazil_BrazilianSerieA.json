@@ -1,0 +1,122 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "América-MG",
+      "team_abbreviation": "AMG",
+      "team_stadium": "Estádio Independência"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Athletico-PR",
+      "team_abbreviation": "CAP",
+      "team_stadium": "Arena da Baixada"
+    },
+    {
+      "team_id": 3,
+      "team_name": "Atlético-MG",
+      "team_abbreviation": "CAM",
+      "team_stadium": "Estádio Mineirão"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Bahia",
+      "team_abbreviation": "BAH",
+      "team_stadium": "Arena Fonte Nova"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Botafogo",
+      "team_abbreviation": "BOT",
+      "team_stadium": "Estádio Nilton Santos"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Corinthians",
+      "team_abbreviation": "COR",
+      "team_stadium": "Arena Corinthians"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Coritiba",
+      "team_abbreviation": "CTB",
+      "team_stadium": "Estádio Couto Pereira"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Cuiabá",
+      "team_abbreviation": "CUI",
+      "team_stadium": "Arena Pantanal"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Cruzeiro",
+      "team_abbreviation": "CRU",
+      "team_stadium": "Estádio Mineirão"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Flamengo",
+      "team_abbreviation": "FLA",
+      "team_stadium": "Estádio do Maracanã"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Fluminense",
+      "team_abbreviation": "FLU",
+      "team_stadium": "Estádio do Maracanã"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Fortaleza",
+      "team_abbreviation": "FOR",
+      "team_stadium": "Estádio Castelão"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Goiás",
+      "team_abbreviation": "GOI",
+      "team_stadium": "Estádio Serrinha"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Grêmio",
+      "team_abbreviation": "GRE",
+      "team_stadium": "Arena do Grêmio"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Internacional",
+      "team_abbreviation": "INT",
+      "team_stadium": "Estádio Beira-Rio"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Palmeiras",
+      "team_abbreviation": "PAL",
+      "team_stadium": "Allianz Parque"
+    },
+    {
+      "team_id": 17,
+      "team_name": "Red Bull Bragantino",
+      "team_abbreviation": "RBB",
+      "team_stadium": "Estádio Nabi Abi Chedid"
+    },
+    {
+      "team_id": 18,
+      "team_name": "Santos",
+      "team_abbreviation": "SAN",
+      "team_stadium": "Estádio Urbano Caldeira"
+    },
+    {
+      "team_id": 19,
+      "team_name": "São Paulo",
+      "team_abbreviation": "SAO",
+      "team_stadium": "Estádio do Morumbi"
+    },
+    {
+      "team_id": 20,
+      "team_name": "Vasco da Gama",
+      "team_abbreviation": "VAS",
+      "team_stadium": "Estádio São Januário"
+    }
+  ]
