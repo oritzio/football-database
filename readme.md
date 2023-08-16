@@ -13,7 +13,7 @@ data is based on the 2023/2024 season.
 ![Preview](./images/en.png) English Football League Two <br>
 
 ### France
-![Preview](./images/fr.png) Ligue 1
+![Preview](./images/fr.png) [Ligue 1](France_Ligue1.json)
 
 ### Spain
 ![Preview](./images/es.png) La Liga
