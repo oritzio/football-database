@@ -1,0 +1,122 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Bucaramanga",
+    "team_abbreviation": "BUC",
+    "team_stadium": "Bucaramanga Stadium"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Independiente Medellín",
+    "team_abbreviation": "DIM",
+    "team_stadium": "Medellín Stadium"
+  },
+  {
+    "team_id": 3,
+    "team_name": "Rionegro Águilas",
+    "team_abbreviation": "RION",
+    "team_stadium": "Rionegro Stadium"
+  },
+  {
+    "team_id": 4,
+    "team_name": "Alianza Petrolera",
+    "team_abbreviation": "APA",
+    "team_stadium": "Petrolera Stadium"
+  },
+  {
+    "team_id": 5,
+    "team_name": "Atlético Nacional",
+    "team_abbreviation": "NAL",
+    "team_stadium": "Nacional Stadium"
+  },
+  {
+    "team_id": 6,
+    "team_name": "Once Caldas",
+    "team_abbreviation": "CAL",
+    "team_stadium": "Caldas Stadium"
+  },
+  {
+    "team_id": 7,
+    "team_name": "La Equidad",
+    "team_abbreviation": "EQD",
+    "team_stadium": "Equidad Stadium"
+  },
+  {
+    "team_id": 8,
+    "team_name": "Deportivo Pasto",
+    "team_abbreviation": "PAS",
+    "team_stadium": "Pasto Stadium"
+  },
+  {
+    "team_id": 9,
+    "team_name": "Deportes Tolima",
+    "team_abbreviation": "TOL",
+    "team_stadium": "Tolima Stadium"
+  },
+  {
+    "team_id": 10,
+    "team_name": "Atlético Huila",
+    "team_abbreviation": "HUI",
+    "team_stadium": "Huila Stadium"
+  },
+  {
+    "team_id": 11,
+    "team_name": "Independiente Santa Fe",
+    "team_abbreviation": "SFE",
+    "team_stadium": "Santa Fe Stadium"
+  },
+  {
+    "team_id": 12,
+    "team_name": "Jaguares de Córdoba",
+    "team_abbreviation": "COR",
+    "team_stadium": "Córdoba Stadium"
+  },
+  {
+    "team_id": 13,
+    "team_name": "América de Cali",
+    "team_abbreviation": "AME",
+    "team_stadium": "América Stadium"
+  },
+  {
+    "team_id": 14,
+    "team_name": "Millonarios",
+    "team_abbreviation": "MIL",
+    "team_stadium": "Millonarios Stadium"
+  },
+  {
+    "team_id": 15,
+    "team_name": "Deportivo Cali",
+    "team_abbreviation": "DCI",
+    "team_stadium": "Cali Stadium"
+  },
+  {
+    "team_id": 16,
+    "team_name": "Unión Magdalena",
+    "team_abbreviation": "UMA",
+    "team_stadium": "Magdalena Stadium"
+  },
+  {
+    "team_id": 17,
+    "team_name": "Atlético Junior",
+    "team_abbreviation": "JUN",
+    "team_stadium": "Junior Stadium"
+  },
+  {
+    "team_id": 18,
+    "team_name": "Boyacá Chicó",
+    "team_abbreviation": "CHI",
+    "team_stadium": "Chicó Stadium"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Envigado",
+    "team_abbreviation": "ENV",
+    "team_stadium": "Envigado Stadium"
+  },
+  {
+    "team_id": 20,
+    "team_name": "Deportivo Pereira",
+    "team_abbreviation": "PER",
+    "team_stadium": "Pereira Stadium"
+  }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "team_id": 1,
+        "team_name": "Guadalajara",
+        "team_abbreviation": "GDL",
+        "team_stadium": "Estadio Akron"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Monterrey",
+        "team_abbreviation": "MTY",
+        "team_stadium": "Estadio BBVA"
+    },
+    {
+        "team_id": 3,
+        "team_name": "FC Juarez",
+        "team_abbreviation": "JUA",
+        "team_stadium": "Estadio Olímpico Benito Juárez"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Pumas UNAM",
+        "team_abbreviation": "UNAM",
+        "team_stadium": "Estadio Olímpico Universitario"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Tigres UANL",
+        "team_abbreviation": "UANL",
+        "team_stadium": "Estadio Universitario"
+    },
+    {
+        "team_id": 6,
+        "team_name": "Atlético San Luis",
+        "team_abbreviation": "ASL",
+        "team_stadium": "Estadio Alfonso Lastras"
+    },
+    {
+        "team_id": 7,
+        "team_name": "Atlas",
+        "team_abbreviation": "ATS",
+        "team_stadium": "Estadio Jalisco"
+    },
+    {
+        "team_id": 8,
+        "team_name": "Tijuana",
+        "team_abbreviation": "TIJ",
+        "team_stadium": "Estadio Caliente"
+    },
+    {
+        "team_id": 9,
+        "team_name": "Toluca",
+        "team_abbreviation": "TOL",
+        "team_stadium": "Estadio Nemesio Diez"
+    },
+    {
+        "team_id": 10,
+        "team_name": "Santos",
+        "team_abbreviation": "SAN",
+        "team_stadium": "Estadio TSM Corona"
+    },
+    {
+        "team_id": 11,
+        "team_name": "León",
+        "team_abbreviation": "LEO",
+        "team_stadium": "Estadio León"
+    },
+    {
+        "team_id": 12,
+        "team_name": "América",
+        "team_abbreviation": "AME",
+        "team_stadium": "Estadio Azteca"
+    },
+    {
+        "team_id": 13,
+        "team_name": "Querétaro",
+        "team_abbreviation": "QRO",
+        "team_stadium": "Estadio Corregidora"
+    },
+    {
+        "team_id": 14,
+        "team_name": "Necaxa",
+        "team_abbreviation": "NEC",
+        "team_stadium": "Estadio Victoria"
+    },
+    {
+        "team_id": 15,
+        "team_name": "Mazatlán FC",
+        "team_abbreviation": "MAZ",
+        "team_stadium": "Estadio Mazatlán"
+    },
+    {
+        "team_id": 16,
+        "team_name": "Pachuca",
+        "team_abbreviation": "PAC",
+        "team_stadium": "Estadio Hidalgo"
+    },
+    {
+        "team_id": 17,
+        "team_name": "Puebla",
+        "team_abbreviation": "PUE",
+        "team_stadium": "Estadio Cuauhtémoc"
+    },
+    {
+        "team_id": 18,
+        "team_name": "Cruz Azul",
+        "team_abbreviation": "CAZ",
+        "team_stadium": "Estadio Azteca"
+    }
+]

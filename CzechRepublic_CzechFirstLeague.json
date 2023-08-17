@@ -1,0 +1,98 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Baník Ostrava",
+      "team_abbreviation": "BO",
+      "team_stadium": "Městský stadion"
+    },
+    {
+      "team_id": 2,
+      "team_name": "Bohemians",
+      "team_abbreviation": "BH",
+      "team_stadium": "Dolicek"
+    },
+    {
+      "team_id": 3,
+      "team_name": "C. Budejovice",
+      "team_abbreviation": "CB",
+      "team_stadium": "Stadion Střelecký ostrov"
+    },
+    {
+      "team_id": 4,
+      "team_name": "Hradec Králové",
+      "team_abbreviation": "HK",
+      "team_stadium": "Všesportovní stadion"
+    },
+    {
+      "team_id": 5,
+      "team_name": "Jablonec",
+      "team_abbreviation": "JA",
+      "team_stadium": "Stadion Střelnice"
+    },
+    {
+      "team_id": 6,
+      "team_name": "Karviná",
+      "team_abbreviation": "KA",
+      "team_stadium": "Městský stadion"
+    },
+    {
+      "team_id": 7,
+      "team_name": "Mladá Boleslav",
+      "team_abbreviation": "MB",
+      "team_stadium": "Stadion Pod Dubem"
+    },
+    {
+      "team_id": 8,
+      "team_name": "Pardubice",
+      "team_abbreviation": "PA",
+      "team_stadium": "Eduard Stadion"
+    },
+    {
+      "team_id": 9,
+      "team_name": "Sigma Olomouc",
+      "team_abbreviation": "SO",
+      "team_stadium": "Andrův stadion"
+    },
+    {
+      "team_id": 10,
+      "team_name": "Slovácko",
+      "team_abbreviation": "SL",
+      "team_stadium": "Městský stadion Miroslava Valenty"
+    },
+    {
+      "team_id": 11,
+      "team_name": "Slovan Liberec",
+      "team_abbreviation": "SLI",
+      "team_stadium": "Stadion u Nisy"
+    },
+    {
+      "team_id": 12,
+      "team_name": "Slavia Praha",
+      "team_abbreviation": "SP",
+      "team_stadium": "Sinobo Stadium"
+    },
+    {
+      "team_id": 13,
+      "team_name": "Sparta Praha",
+      "team_abbreviation": "SPA",
+      "team_stadium": "Generali Arena"
+    },
+    {
+      "team_id": 14,
+      "team_name": "Teplice",
+      "team_abbreviation": "TE",
+      "team_stadium": "Na Stínadlech"
+    },
+    {
+      "team_id": 15,
+      "team_name": "Viktoria Plzeň",
+      "team_abbreviation": "VP",
+      "team_stadium": "Doosan Arena"
+    },
+    {
+      "team_id": 16,
+      "team_name": "Zlín",
+      "team_abbreviation": "ZL",
+      "team_stadium": "Letná Stadion"
+    }
+  ]

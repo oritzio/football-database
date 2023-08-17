@@ -34,13 +34,16 @@ Data is based on the 2023/2024 season.
 ![Preview](./images/br.png) [Brazilian Serie A](Brazil_BrazilianSerieA.json)
 
 ### Belgium
-![Preview](./images/be.png) [BelgianProLeague](Belgium_BelgianProLeague.json)
+![Preview](./images/be.png) [Belgian Pro League](Belgium_BelgianProLeague.json)
 
 ### Denmark
 ![Preview](./images/dk.png) [Danish Superliga](Denmark_DanishSuperliga.json)
 
 ### Scotland
 ![Preview](./images/gb-sct.png) [Scottish Premiership](Scotland_ScottishPremiership.json)
+
+### Czech Republic
+![Preview](./images/cz.png) [Czech First League](CzechRepublic_CzechFirstLeague.json)
 
 ### Turkey
 ![Preview](./images/tr.png) [Super Lig](Turkey_SuperLig.json)
@@ -53,6 +56,12 @@ Data is based on the 2023/2024 season.
 
 ### Greece
 ![Preview](./images/gr.png) [Greek Super League](Greece_GreekSuperLeague.json)
+
+### Colombia
+![Preview](./images/co.png) [Colombian Primera A](Colombia_ColombianPrimeraA.json)
+
+### Mexico
+![Preview](./images/mx.png) [Liga MX](Mexico_LigaMX.json)
 
 ### Israel
 ![Preview](./images/il.png) [Ligat Al](Israel_LigatAl.json)
