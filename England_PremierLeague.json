@@ -19,57 +19,57 @@
   },
   {
     "team_id": 4,
-    "team_name": "Brighton",
-    "team_abbreviation": "BHA",
-    "team_stadium": "Amex Stadium"
-  },
-  {
-    "team_id": 5,
-    "team_name": "Burnley",
-    "team_abbreviation": "BUR",
-    "team_stadium": "Turf Moor"
-  },
-  {
-    "team_id": 6,
     "team_name": "Brentford",
     "team_abbreviation": "BRE",
     "team_stadium": "Brentford Community Stadium"
   },
   {
-    "team_id": 7,
+    "team_id": 5,
+    "team_name": "Brighton",
+    "team_abbreviation": "BHA",
+    "team_stadium": "Amex Stadium"
+  },
+  {
+    "team_id": 6,
     "team_name": "Chelsea",
     "team_abbreviation": "CHE",
     "team_stadium": "Stamford Bridge"
   },
   {
-    "team_id": 8,
+    "team_id": 7,
     "team_name": "Crystal Palace",
     "team_abbreviation": "CRY",
     "team_stadium": "Selhurst Park"
   },
   {
-    "team_id": 9,
+    "team_id": 8,
     "team_name": "Everton",
     "team_abbreviation": "EVE",
     "team_stadium": "Goodison Park"
   },
   {
-    "team_id": 10,
+    "team_id": 9,
     "team_name": "Fulham",
     "team_abbreviation": "FUL",
     "team_stadium": "Craven Cottage"
   },
   {
+    "team_id": 10,
+    "team_name": "Ipswich Town",
+    "team_abbreviation": "IPS",
+    "team_stadium": "Portman Road"
+  },
+  {
     "team_id": 11,
-    "team_name": "Liverpool",
-    "team_abbreviation": "LIV",
-    "team_stadium": "Anfield"
+    "team_name": "Leicester City",
+    "team_abbreviation": "LEI",
+    "team_stadium": "King Power Stadium"
   },
   {
     "team_id": 12,
-    "team_name": "Luton Town",
-    "team_abbreviation": "LUT",
-    "team_stadium": "Kenilworth Road"
+    "team_name": "Liverpool",
+    "team_abbreviation": "LIV",
+    "team_stadium": "Anfield"
   },
   {
     "team_id": 13,
@@ -92,18 +92,18 @@
   {
     "team_id": 16,
     "team_name": "Nottm Forest",
-    "team_abbreviation": "FOR",
+    "team_abbreviation": "NFO",
     "team_stadium": "City Ground"
   },
   {
     "team_id": 17,
-    "team_name": "Sheffield United",
-    "team_abbreviation": "SHU",
-    "team_stadium": "Bramall Lane"
+    "team_name": "Southampton",
+    "team_abbreviation": "SOU",
+    "team_stadium": "St Mary's Stadium"
   },
   {
     "team_id": 18,
-    "team_name": "Totenham",
+    "team_name": "Tottenham",
     "team_abbreviation": "TOT",
     "team_stadium": "Tottenham Hotspur Stadium"
   },
