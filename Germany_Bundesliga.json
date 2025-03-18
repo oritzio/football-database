@@ -1,110 +1,110 @@
 [
-  {
-      "team_id": "1",
-      "team_name": "Augsburg",
-      "team_abbreviation": "FCA",
-      "team_stadium": "WWK Arena"
-  },
-  {
-      "team_id": "2",
-      "team_name": "Bayer Leverkusen",
-      "team_abbreviation": "B04",
-      "team_stadium": "BayArena"
-  },
-  {
-      "team_id": "3",
-      "team_name": "Bayern Munich",
-      "team_abbreviation": "FCB",
-      "team_stadium": "Allianz Arena"
-  },
-  {
-      "team_id": "4",
-      "team_name": "VfL Bochum",
-      "team_abbreviation": "BOC",
-      "team_stadium": "Vonovia Ruhrstadion"
-  },
-  {
-      "team_id": "5",
-      "team_name": "Borussia Dortmund",
-      "team_abbreviation": "BVB",
-      "team_stadium": "Signal Iduna Park"
-  },
-  {
-      "team_id": "6",
-      "team_name": "Borussia Mönchengladbach",
-      "team_abbreviation": "BMG",
-      "team_stadium": "Borussia-Park"
-  },
-  {
-      "team_id": "7",
-      "team_name": "Darmstadt",
-      "team_abbreviation": "D98",
-      "team_stadium": "Merck-Stadion am Böllenfalltor"
-  },
-  {
-      "team_id": "8",
-      "team_name": "Eintracht Frankfurt",
-      "team_abbreviation": "SGE",
-      "team_stadium": "Deutsche Bank Park"
-  },
-  {
-      "team_id": "9",
-      "team_name": "FC Köln",
-      "team_abbreviation": "KOE",
-      "team_stadium": "RheinEnergieStadion"
-  },
-  {
-      "team_id": "10",
-      "team_name": "SC Freiburg",
-      "team_abbreviation": "SCF",
-      "team_stadium": "Schwarzwald-Stadion"
-  },
-  {
-      "team_id": "11",
-      "team_name": "Heidenheim",
-      "team_abbreviation": "FCH",
-      "team_stadium": "Voith-Arena"
-  },
-  {
-      "team_id": "12",
-      "team_name": "Hoffenheim",
-      "team_abbreviation": "TSG",
-      "team_stadium": "PreZero Arena"
-  },
-  {
-      "team_id": "13",
-      "team_name": "Mainz",
-      "team_abbreviation": "M05",
-      "team_stadium": "Opel Arena"
-  },
-  {
-      "team_id": "14",
-      "team_name": "RB Leipzig",
-      "team_abbreviation": "RBL",
-      "team_stadium": "Red Bull Arena"
-  },
-  {
-      "team_id": "15",
-      "team_name": "VfB Stuttgart",
-      "team_abbreviation": "VFB",
-      "team_stadium": "Mercedes-Benz Arena"
-  },
-  {
-      "team_id": "16",
-      "team_name": "Union Berlin",
-      "team_abbreviation": "FCU",
-      "team_stadium": "Stadion An der Alten Försterei"
-  },
-  {
-      "team_id": "17",
-      "team_name": "Werder Bremen",
-      "team_abbreviation": "SVW",
-      "team_stadium": "Weserstadion"
-  },
-  {
-      "team_id": "18",
-      "team_name": "Wolfsburg",
-      "team_abbreviation": "WOB",
-      "team_stadium": "Volkswagen Arena"
-  }
-]
+    {
+        "team_id": 1,
+        "team_name": "Heidenheim",
+        "team_abbreviation": "HDH",
+        "team_stadium": "Voith-Arena"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Union Berlin",
+        "team_abbreviation": "FCU",
+        "team_stadium": "Stadion An der Alten Försterei"
+    },
+    {
+        "team_id": 3,
+        "team_name": "Bayer Leverkusen",
+        "team_abbreviation": "B04",
+        "team_stadium": "BayArena"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Bayern Munich",
+        "team_abbreviation": "MUN",
+        "team_stadium": "Allianz Arena"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Borussia Dortmund",
+        "team_abbreviation": "DOR",
+        "team_stadium": "Signal Iduna Park"
+    },
+    {
+        "team_id": 6,
+        "team_name": "Borussia Monchengladbach",
+        "team_abbreviation": "BMG",
+        "team_stadium": "Borussia-Park"
+    },
+    {
+        "team_id": 7,
+        "team_name": "FC Augsburg",
+        "team_abbreviation": "FCA",
+        "team_stadium": "WWK Arena"
+    },
+    {
+        "team_id": 8,
+        "team_name": "Eintracht Frankfurt",
+        "team_abbreviation": "SGE",
+        "team_stadium": "Deutsche Bank Park"
+    },
+    {
+        "team_id": 9,
+        "team_name": "FC Mainz",
+        "team_abbreviation": "M05",
+        "team_stadium": "MEWA Arena"
+    },
+    {
+        "team_id": 10,
+        "team_name": "Holstein Kiel",
+        "team_abbreviation": "KSV",
+        "team_stadium": "Holstein-Stadion"
+    },
+    {
+        "team_id": 11,
+        "team_name": "RB Leipzig",
+        "team_abbreviation": "RBL",
+        "team_stadium": "Red Bull Arena"
+    },
+    {
+        "team_id": 12,
+        "team_name": "SC Freiburg",
+        "team_abbreviation": "SCF",
+        "team_stadium": "Europa-Park Stadion"
+    },
+    {
+        "team_id": 13,
+        "team_name": "St. Pauli",
+        "team_abbreviation": "STP",
+        "team_stadium": "Millerntor-Stadion"
+    },
+    {
+        "team_id": 14,
+        "team_name": "TSG Hoffenheim",
+        "team_abbreviation": "TSG",
+        "team_stadium": "PreZero Arena"
+    },
+    {
+        "team_id": 15,
+        "team_name": "VfB Stuttgart",
+        "team_abbreviation": "VFB",
+        "team_stadium": "Mercedes-Benz Arena"
+    },
+    {
+        "team_id": 16,
+        "team_name": "VfL Bochum",
+        "team_abbreviation": "BOC",
+        "team_stadium": "Vonovia Ruhrstadion"
+    },
+    {
+        "team_id": 17,
+        "team_name": "VfL Wolfsburg",
+        "team_abbreviation": "WOB",
+        "team_stadium": "Volkswagen Arena"
+    },
+    {
+        "team_id": 18,
+        "team_name": "Werder Bremen",
+        "team_abbreviation": "SVW",
+        "team_stadium": "Wohninvest Weserstadion"
+    }
+]  

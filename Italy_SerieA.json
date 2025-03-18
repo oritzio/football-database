@@ -2,7 +2,7 @@
   {
     "team_id": 1,
     "team_name": "AC Milan",
-    "team_abbreviation": "ACM",
+    "team_abbreviation": "MIL",
     "team_stadium": "San Siro"
   },
   {
@@ -15,7 +15,7 @@
     "team_id": 3,
     "team_name": "Bologna",
     "team_abbreviation": "BOL",
-    "team_stadium": "Renato Dall'Ara"
+    "team_stadium": "Stadio Renato Dall'Ara"
   },
   {
     "team_id": 4,
@@ -25,21 +25,21 @@
   },
   {
     "team_id": 5,
-    "team_name": "Empoli",
-    "team_abbreviation": "EMP",
-    "team_stadium": "Carlo Castellani"
+    "team_name": "Como",
+    "team_abbreviation": "COM",
+    "team_stadium": "Stadio Giuseppe Sinigaglia"
   },
   {
     "team_id": 6,
-    "team_name": "Fiorentina",
-    "team_abbreviation": "FIO",
-    "team_stadium": "Stadio Artemio Franchi"
+    "team_name": "Empoli",
+    "team_abbreviation": "EMP",
+    "team_stadium": "Stadio Carlo Castellani"
   },
   {
     "team_id": 7,
-    "team_name": "Frosinone",
-    "team_abbreviation": "FRO",
-    "team_stadium": "Stadio Benito Stirpe"
+    "team_name": "Fiorentina",
+    "team_abbreviation": "FIO",
+    "team_stadium": "Stadio Artemio Franchi"
   },
   {
     "team_id": 8,
@@ -49,7 +49,7 @@
   },
   {
     "team_id": 9,
-    "team_name": "Inter",
+    "team_name": "Inter Milan",
     "team_abbreviation": "INT",
     "team_stadium": "San Siro"
   },
@@ -67,56 +67,56 @@
   },
   {
     "team_id": 12,
-    "team_name": "Leece",
-    "team_abbreviation": "LEE",
+    "team_name": "Lecce",
+    "team_abbreviation": "LEC",
     "team_stadium": "Stadio Via del Mare"
   },
   {
     "team_id": 13,
-    "team_name": "Monza",
-    "team_abbreviation": "MON",
-    "team_stadium": "Stadio Brianteo"
+    "team_name": "Napoli",
+    "team_abbreviation": "NAP",
+    "team_stadium": "Stadio Diego Armando Maradona"
   },
   {
     "team_id": 14,
-    "team_name": "Napoli",
-    "team_abbreviation": "NAP",
-    "team_stadium": "Diego Armando Maradona"
-  },
-  {
-    "team_id": 15,
-    "team_name": "Roma",
-    "team_abbreviation": "ROM",
+    "team_name": "AS Roma",
+    "team_abbreviation": "ROMA",
     "team_stadium": "Stadio Olimpico"
   },
   {
-    "team_id": 16,
-    "team_name": "Salernitana",
-    "team_abbreviation": "SAL",
-    "team_stadium": "Stadio Arechi"
-  },
-  {
-    "team_id": 17,
-    "team_name": "Sassuolo",
-    "team_abbreviation": "SAS",
-    "team_stadium": "Mapei Stadium"
-  },
-  {
-    "team_id": 18,
+    "team_id": 15,
     "team_name": "Torino",
     "team_abbreviation": "TOR",
     "team_stadium": "Stadio Olimpico Grande Torino"
   },
   {
-    "team_id": 19,
+    "team_id": 16,
     "team_name": "Udinese",
     "team_abbreviation": "UDI",
     "team_stadium": "Dacia Arena"
   },
   {
-    "team_id": 20,
-    "team_name": "Verona",
+    "team_id": 17,
+    "team_name": "Venezia",
+    "team_abbreviation": "VEN",
+    "team_stadium": "Stadio Pierluigi Penzo"
+  },
+  {
+    "team_id": 18,
+    "team_name": "Hellas Verona",
     "team_abbreviation": "VER",
-    "team_stadium": "Stadio Marc'Antonio Bentegodi"
+    "team_stadium": "Stadio Marcantonio Bentegodi"
+  },
+  {
+    "team_id": 19,
+    "team_name": "Parma",
+    "team_abbreviation": "PAR",
+    "team_stadium": "Stadio Ennio Tardini"
+  },
+  {
+    "team_id": 20,
+    "team_name": "Monza",
+    "team_abbreviation": "MON",
+    "team_stadium": "U-Power Stadium"
   }
 ]
