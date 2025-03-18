@@ -14,19 +14,19 @@
     {
         "team_id": 3,
         "team_name": "Bayer Leverkusen",
-        "team_abbreviation": "B04",
+        "team_abbreviation": "LEV",
         "team_stadium": "BayArena"
     },
     {
         "team_id": 4,
         "team_name": "Bayern Munich",
-        "team_abbreviation": "MUN",
+        "team_abbreviation": "FCB",
         "team_stadium": "Allianz Arena"
     },
     {
         "team_id": 5,
         "team_name": "Borussia Dortmund",
-        "team_abbreviation": "DOR",
+        "team_abbreviation": "BVB",
         "team_stadium": "Signal Iduna Park"
     },
     {
